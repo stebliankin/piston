@@ -37,19 +37,20 @@ The MaSIF-test dataset with pre-processed interface maps can be downloaded from 
 
     wget https://users.cs.fiu.edu/~vsteb002/piston/masif_test.tar.gz
 
-The docking models from CAPRI score set can be obtained from the SBDB repository (https://data.sbgrid.org/dataset/843/):
+The docking models from the CAPRI score set can be obtained from the SBDB repository (https://data.sbgrid.org/dataset/843/):
 
     rsync -av rsync://data.sbgrid.org/10.15785/SBGRID/843 .
 
 The pre-processed interface maps of a CAPRI score set can be downloaded as follows:
 
-    wget ..
+    wget https://users.cs.fiu.edu/~vsteb002/piston/capri_score.tar.gz
+
 
 ## Usage
 
 Use the following link to download the pre-trained PIsToN model:
 
-    wget wget https://users.cs.fiu.edu/~vsteb002/piston/PIsToN_multiAttn_contrast.pth
+    wget https://users.cs.fiu.edu/~vsteb002/piston/PIsToN_multiAttn_contrast.pth
 
 
-The `PiSToN_test.ipynb` contains the example on how to use the model.
+The `PiSToN_test.ipynb` contains an example of how to use the model.
