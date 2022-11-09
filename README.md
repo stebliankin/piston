@@ -54,3 +54,21 @@ Use the following link to download the pre-trained PIsToN model:
 
 
 The `PiSToN_test.ipynb` contains an example of how to use the model.
+
+## Reference
+
+This repository is part of the paper "PIsToN: Evaluating Protein Binding Interfaces with Transformer Networks" and is currently under review at RECOMB 2023 conference.
+
+Authors: Vitalii Stebliankin<sup>1</sup>, Azam Shirali<sup>1</sup>, Prabin Baral<sup>2</sup>, Prem Chapagain<sup>2,3</sup>, and
+Giri Narasimhan<sup>1,3</sup>
+
+[1] Bioinformatics Research Group (BioRG),
+Knight Foundation School of Computing and Information Sciences,
+Florida International University; 11200 SW 8th 10 St, Miami, 33199, USA
+giri@cs.fiu.edu
+
+[2] Department of Physics, College of Arts, Science and Education,
+Florida International University; 11200 SW 8th St, Miami, 33199, USA
+
+[3] Biomolecular Sciences Institute,
+Florida International University; 11200 SW 8th St, Miami, 33199, USA
