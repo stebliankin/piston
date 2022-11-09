@@ -1,5 +1,5 @@
 # PIsToN
-Evaluating <b>P</b>rotein Binding <b>I</b>nterface<b>s</b> with <b>T</b>ransf<b>o</b>rmer <b>N</b>etworks (PIsToN)
+PIsToN (evaluating <b>P</b>rotein Binding <b>I</b>nterface<b>s</b> with <b>T</b>ransf<b>o</b>rmer <b>N</b>etworks) - 
 is a novel deep learning-based approach for distinguishing native-like protein complexes from decoys. 
 Each protein interface is transformed into a collection of 2D images (interface maps), 
 where each image corresponds to a geometric or biochemical property in which pixel intensity represents the feature values.
