@@ -13,29 +13,32 @@ A set of additional dependencies is required for docking and interface maps comp
 * [MaSIF](https://github.com/LPDI-EPFL/masif). The MaSIF installation guidlines can be found on [this link](https://github.com/LPDI-EPFL/masif/blob/master/docker_tutorial.md)
 * [FireDock](http://bioinfo3d.cs.tau.ac.il/FireDock/). Use the following code for installation:
 
-
+```
     wget http://bioinfo3d.cs.tau.ac.il/FireDock/download/fire_dock_download.zip
     unzip fire_dock_download.zip
     chmod -R 775 /FireDock/
     chmod +x /FireDock/buildFireDockParams.pl
     chmod +x /FireDock/PDBPreliminaries/prepareFragments.pl
     chmod +x /FireDock/PDBPreliminaries/PDBPreliminaries
+```
 
 * [HDOCKlite-v1.1](http://hdock.phys.hust.edu.cn/). The following link can be used to obtain HDODCK standalone verion: http://huanglab.phys.hust.edu.cn/software/hdocklite/
 
 * [DSSP v.2.3.0](https://github.com/PDB-REDO/dssp). Use the following code for installation:
 
-
+```
     wget "https://github.com/cmbi/dssp/archive/refs/tags/2.3.0.tar.gz"
     tar -zxvf 2.3.0.tar.gz
     cd dssp-2.3.0
     ./autogen.sh; ./configure; make; make install
     cd /
     rm -r dssp-2.3.0 2.3.0.tar.gz
+```
 
 ### Example of computing interface maps
 We provide a python wrapper to generate interface maps with [piston.py](https://github.com/stebliankin/piston/blob/main/piston.py)
 
+```
     python3 piston.py prepare -h
     usage: piston.py prepare [-h] [--list LIST] [--ppi PPI] [--no_download]
                                 [--download_only] [--prepare_docking]
@@ -50,6 +53,7 @@ We provide a python wrapper to generate interface maps with [piston.py](https://
                          structures without processing them.
       --prepare_docking  If set True, re-dock native structures and pre-
                          process top 100 generated models
+```
 
 The script will automatically download complexes from [Protein Data Bank](https://www.rcsb.org/), transform them to a surface,
 extract a pair of patches at the interface, compute all features, project it to images (interface maps), and save it as a numpy array.
