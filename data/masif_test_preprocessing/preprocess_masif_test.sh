@@ -10,9 +10,9 @@ mkdir -p $LOGS_DIR
 
 MAX_JOBS=1000
 
-SLURM_ACC="iacc_giri"
-SLURM_QOS="pq_giri"
-SLURM_NODE_TYPE="investor"
+SLURM_ACC="your_acc"
+SLURM_QOS="your_qos"
+SLURM_NODE_TYPE="node_type"
 
 while read p; do
     echo $p
@@ -77,13 +77,6 @@ while read p; do
 done < $LIST
 
 LIST="../lists/masif_test_original.txt"
-
-MAX_JOBS=1000
-
-SLURM_ACC="iacc_giri"
-SLURM_QOS="pq_giri"
-SLURM_NODE_TYPE="investor"
-
 LOGS_DIR=./logs/prepare_test_original/
 mkdir -p $LOGS_DIR
 
