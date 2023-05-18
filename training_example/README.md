@@ -55,7 +55,7 @@ The script will automatically download complexes from [Protein Data Bank](https:
 extract a pair of patches at the interface, compute all features, project it to images (interface maps), and save it as a numpy array.
 
 We recommend using an HPC cluster for faster pre-processing.
-An example of pre-processing on Slurm can be found in [piston/data/20R_training/](https://github.com/stebliankin/piston/tree/main/data/20R_training) of this repository.
+An example of pre-processing on Slurm can be found in [piston/data/preprocessing_scripts/](../data/preprocessing_scripts/) of this repository.
 
 ### Configuration file
 The required argument to ``piston.py`` is the path to a **configuration file** that should include a python dictionary ``config`` with the required parameters:
@@ -84,7 +84,7 @@ Parameters:
 * `config['ppi_const']['points_in_patch']` - number of data points on a patch
 * `config['mesh']['mesh_res']` - resolution of the mesh in angstroms
 
-[config.py](https://github.com/stebliankin/piston/blob/main/data/20R_training/config.py) 
+[config.py](../data/preprocessing_scripts/config.py) 
 includes an example of the configuration file.
 
 ## 2. Training the model
