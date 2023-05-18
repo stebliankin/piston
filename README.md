@@ -52,7 +52,8 @@ The pre-processed interface maps of a CAPRI score set can be downloaded as follo
 
 ## Usage
 
-[PiSToN_test.ipynb](PiSToN_test.ipynb) contains an example of how to use the model.
+[PiSToN_test.ipynb](PiSToN_test.ipynb) contains an example of how to use the pre-trained PIsToN.
+[training_example](./training_example) provides an instructions of how to train PIsToN.
 
 ## Reference
 

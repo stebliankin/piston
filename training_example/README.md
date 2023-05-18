@@ -3,9 +3,9 @@
 This module includes instructions on how to train a new PIsToN model on a set of protein complexes.
 
 ## 1. Data pre-processing
-Prior to model training, a set positive and negative interface maps has to be pre-processed.
+Prior to model training, a set of positive and negative interface maps has to be pre-processed.
 The first step includes generating acceptable and incorrect docking models from a list of native protein complexes.
-Next, the physico-chemical features of interfaces from each docking model has to be projected into 2D multi-channel images. 
+Next, the physico-chemical features of interfaces from each docking model have to be projected into 2D multi-channel images. 
 
 ### Dependencies
 A set of additional dependencies is required for docking and interface maps computation:
@@ -51,15 +51,14 @@ We provide a python wrapper to generate interface maps with [piston.py](https://
       --prepare_docking  If set True, re-dock native structures and pre-
                          process top 100 generated models
 
-The script will automatically download complexes from [Protein Data Bank](https://www.rcsb.org/), transform it to a surface,
-extract a pair of patches at the interface, compute all features, project it to images (interface maps), and save it as numpy array.
+The script will automatically download complexes from [Protein Data Bank](https://www.rcsb.org/), transform them to a surface,
+extract a pair of patches at the interface, compute all features, project it to images (interface maps), and save it as a numpy array.
 
-We recommend using HPC cluster for faster pre-processing.
-An example of pre-processing on Slurm can be found in [piston/data
-/20R_training/](https://github.com/stebliankin/piston/tree/main/data/20R_training) of this repository.
+We recommend using an HPC cluster for faster pre-processing.
+An example of pre-processing on Slurm can be found in [piston/data/20R_training/](https://github.com/stebliankin/piston/tree/main/data/20R_training) of this repository.
 
 ### Configuration file
-The required argument to ``piston.py`` is the path to a **configuration file** that should include a python dictionary ``config`` with required parameters:
+The required argument to ``piston.py`` is the path to a **configuration file** that should include a python dictionary ``config`` with the required parameters:
 
 Input directories:
 * `config['dirs']['data_prepare']` - the main directory for data preparation;
