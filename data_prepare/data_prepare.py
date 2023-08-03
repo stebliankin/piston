@@ -202,8 +202,8 @@ def prepare(args):
     else:
         processed_ppi = ppi_list
 
-    if args.fix_pdb:
-        fix_protonated(ppi_list, config)
+    # if args.fix_pdb:
+    #     fix_protonated(ppi_list, config)
 
     if not args.download_only:
         preprocess(processed_ppi, config)

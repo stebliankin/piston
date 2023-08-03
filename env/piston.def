@@ -1,0 +1,50 @@
+%post
+    mkdir -p /tmp
+    apt-get install -y libboost-all-dev
+    apt-get install -y libfftw3-dev
+    apt-get install -y clang
+    apt-get install -y ninja-build
+    cd /
+    wget http://bioinfo3d.cs.tau.ac.il/FireDock/download/fire_dock_download.zip
+    unzip fire_dock_download.zip
+    chmod -R 775 /FireDock/
+    chmod +x /FireDock/buildFireDockParams.pl
+    chmod +x /FireDock/PDBPreliminaries/prepareFragments.pl
+    chmod +x /FireDock/PDBPreliminaries/PDBPreliminaries
+    wget $HDOCK_LINK
+    tar -zxvf HDOCKlite.tar.gz
+    mv /HDOCKlite-v1.1/hdock /usr/local/bin/; chmod +x /usr/local/bin/hdock
+    mv /HDOCKlite-v1.1/createpl /usr/local/bin/; chmod +x /usr/local/bin/createpl
+    rm HDOCKlite.tar.gz; rm -r /HDOCKlite-v1.1
+    wget "https://github.com/cmbi/dssp/archive/refs/tags/2.3.0.tar.gz"
+    tar -zxvf 2.3.0.tar.gz
+    cd dssp-2.3.0
+    ./autogen.sh; ./configure; make; make install
+    cd /
+    rm -r dssp-2.3.0 2.3.0.tar.gz
+    cp -r /root/pdb2pqr/ /pdb2pqr
+    pip3 install --upgrade pip
+    pip3 install tqdm
+    pip3 install einops
+    pip3 install keras-applications==1.0.8
+    pip3 install opencv-python==4.5.5.62
+    pip3 install pandas
+    pip3 install torch==1.10.1
+    pip3 install biopython --upgrade
+    pip3 install einops
+    pip3 install plotly
+    pip3 install torchsummary
+    pip3 install torchsummaryX
+    pip3 install pdb2sql
+    pip3 install ray[tune]
+    pip3 install hpbandster ConfigSpace
+    pip3 install ml_collections
+    mkdir -p /lclhome
+
+%environment
+    export PYTHONPATH=$PYTHONPATH:/
+    export PYTHONPATH=$PYTHONPATH:/masif/source/
+    export PDB2PQR_BIN=/pdb2pqr/pdb2pqr.py
+    export PATH=/ncbi-blast-2.12.0+/bin:$PATH:/:/FireDock
+%runscript
+   exec echo “PIsToN v.1.0.0”
