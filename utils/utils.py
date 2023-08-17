@@ -257,7 +257,7 @@ def run_firedock_one(ppi, ppi_dir, firedock_out_dir):
     # if not os.path.exists(f"{firedock_out_dir}/refined-out-{ppi}.ref"):
     ## Fix PDB files
     curr_dir = os.path.abspath(os.path.dirname(__file__))
-    firedock_params_dir = f"{curr_dir}/../third_party/firedock_params"
+    firedock_params_dir = f"/FireDock/"
 
     if not os.path.exists(firedock_out_dir):
         os.mkdir(firedock_out_dir)
