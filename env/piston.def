@@ -5,7 +5,7 @@
     apt-get install -y clang
     apt-get install -y ninja-build
     cd /
-    wget http://bioinfo3d.cs.tau.ac.il/FireDock/download/fire_dock_download.zip
+    wget $FIREDOCK_LINK
     unzip fire_dock_download.zip
     chmod -R 775 /FireDock/
     chmod +x /FireDock/buildFireDockParams.pl
