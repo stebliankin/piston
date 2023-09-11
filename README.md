@@ -59,8 +59,7 @@ The pre-processed interface maps of a CAPRI score set can be downloaded as follo
 
 Use the following reference to cite our work:
 
-Stebliankin, V., Shirali, A., Baral, P., Chapagain, P.P. and Narasimhan, G., 2023. PIsToN: Evaluating Protein Binding Interfaces with Transformer Networks. bioRxiv.
-(https://doi.org/10.1101/2023.01.03.522623)
+Stebliankin, V., Shirali, A., Baral, P. et al. Evaluating protein binding interfaces with transformer networks. Nat Mach Intell (2023). https://doi.org/10.1038/s42256-023-00715-4
 
 ## License
 This work is licensed under a
