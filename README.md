@@ -38,17 +38,17 @@ Next, install the following python packages:
 
 ## Dataset
 
-The MaSIF-test dataset with pre-processed interface maps can be downloaded from the FIU server:
+The datasets with pre-processed interface maps can be downloaded from Zenodo:
 
-    wget https://users.cs.fiu.edu/~vsteb002/piston/masif_test.tar.gz
+    # MaSIF-test:
+    wget https://zenodo.org/record/7948337/files/masif_test.tar.gz?download=1 -O ./data/masif_test.tar.gz
 
-The docking models from the CAPRI score set can be obtained from the SBDB repository (https://data.sbgrid.org/dataset/843/):
+    # CAPRI-score:
+    wget https://zenodo.org/record/7948337/files/capri_score.tar.gz?download=1 -O ./data/capri_score.tar.gz
 
-    rsync -av rsync://data.sbgrid.org/10.15785/SBGRID/843 .
+    # PDB-2023:
+    wget https://zenodo.org/record/7948337/files/PDB_2023.tar.gz?download=1 -O ./data/PDB_2023.tar.gz
 
-The pre-processed interface maps of a CAPRI score set can be downloaded as follows:
-
-    wget https://users.cs.fiu.edu/~vsteb002/piston/capri_score.tar.gz
 
 ## Usage
 
