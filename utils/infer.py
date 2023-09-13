@@ -31,7 +31,7 @@ def infer(ppi_list, grid_dir, model_path, params, device, radius):
     model.load_state_dict(torch.load(model_path, map_location=device))
     model_parameters = filter(lambda p: p.requires_grad, model.parameters())
     n_params = sum([np.prod(p.size()) for p in model_parameters])
-    print(f"Loaded PiSToN model with {n_params} trainable parameters. Radius of the patch: {radius}A")
+    print(f"Loaded PIsToN model with {n_params} trainable parameters. Radius of the patch: {radius}A")
 
     ## Constructing a dataset
     dataset = PISToN_dataset(grid_dir, ppi_list)
