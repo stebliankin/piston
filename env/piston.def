@@ -1,9 +1,18 @@
+Bootstrap: docker
+From: pablogainza/masif:latest
+
 %post
-    mkdir -p /tmp
-    apt-get install -y libboost-all-dev
-    apt-get install -y libfftw3-dev
-    apt-get install -y clang
-    apt-get install -y ninja-build
+    cp /etc/apt/sources.list /etc/apt/sources.list.backup
+
+    # Use the archive repository for Debian Stretch
+    echo "deb http://archive.debian.org/debian/ stretch main" > /etc/apt/sources.list
+
+    # Update package lists while disabling the check for Release file validity
+    apt-get update -o Acquire::Check-Valid-Until=false
+
+    # Install the required packages in one command
+    apt-get install -y libboost-all-dev libfftw3-dev clang ninja-build
+
     cd /
     wget $FIREDOCK_LINK
     unzip fire_dock_download.zip
@@ -39,12 +48,18 @@
     pip3 install ray[tune]
     pip3 install hpbandster ConfigSpace
     pip3 install ml_collections
-    mkdir -p /lclhome
+    pip3 install kaleido
+    pip3 install -U scikit-learn scipy matplotlib
+    pip3 install pdb2sql
+    git clone https://github.com/stebliankin/piston
+    cd piston
+    chmod +x piston
+    cd / && mkdir -p /lclhome
 
 %environment
     export PYTHONPATH=$PYTHONPATH:/
     export PYTHONPATH=$PYTHONPATH:/masif/source/
     export PDB2PQR_BIN=/pdb2pqr/pdb2pqr.py
-    export PATH=/ncbi-blast-2.12.0+/bin:$PATH:/:/FireDock
+    export PATH=/piston:/ncbi-blast-2.12.0+/bin:$PATH:/:/FireDock
 %runscript
-   exec echo “PIsToN v.1.0.0”
+   exec echo “PIsToN v.1.0.1”

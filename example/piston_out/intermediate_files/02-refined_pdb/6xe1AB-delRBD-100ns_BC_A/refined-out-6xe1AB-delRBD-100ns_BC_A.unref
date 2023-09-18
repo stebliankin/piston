@@ -1,0 +1,40 @@
+Before Refinement: 
+########### Program Parameters ##################
+ACEWeight	(Str)	1.6
+HBWeight	(Str)	1.2
+aliphWeight	(Str)	2.5
+attrElWeight	(Str)	0.21
+attrVdWWeight	(Str)	1.5
+catpiWeight	(Str)	0.7
+confProbWeight	(Str)	0.0
+energiesOutFileName	(Str)	./piston_out/intermediate_files/02-refined_pdb//6xe1AB-delRBD-100ns_BC_A//refined-out-6xe1AB-delRBD-100ns_BC_A
+extraRotamers	(Int)	0
+flexibleLigandChains	(Str)	
+flexibleReceptorChains	(Str)	
+insidenessWeight	(Str)	0.7
+l_attrElWeight	(Str)	0.0
+l_repElWeight	(Str)	0.69
+ligandFixedResiduesFile	(Str)	
+ligandFlexibleResiduesFile	(Str)	
+ligandOnlyClashesMovable	(Int)	1
+ligandPDBFileName	(Str)	./piston_out/intermediate_files/01-protonated_pdb//6xe1AB-delRBD-100ns_A.pdb.CHB.pdb
+lpMethod	(Int)	2
+onlyEnergyCalculation	(Int)	0
+pdbConventionFile	(Str)	
+pipiWeight	(Str)	1.0
+printRefinedComplexes	(Int)	1
+protLib	(Str)	/FireDock/lib/chem.lib
+radiiScaling	(Str)	0.8
+receptorFixedResiduesFile	(Str)	
+receptorFlexibleResiduesFile	(Str)	
+receptorOnlyClashesMovable	(Int)	1
+receptorPDBFileName	(Str)	./piston_out/intermediate_files/01-protonated_pdb//6xe1AB-delRBD-100ns_BC.pdb.CHB.pdb
+repElWeight	(Str)	0.21
+repVdWWeight	(Str)	0.8
+rigidBodyMinimizationCycles	(Int)	50
+rotamerLibFile	(Str)	/FireDock/lib/bbdep02.May.sortlib
+templateLigandPDBFileName	(Str)	
+templateReceptorPDBFileName	(Str)	
+transFileName	(Str)	/FireDock//default.trans
+#################################################
+    Sol # |    Lrmsd |    Irmsd | st_Lrmsd | st_Irmsd |     glob |     aVdW |     rVdW |      ACE |   inside |    aElec |    rElec |   laElec |   lrElec |       hb |      piS |   catpiS |    aliph |     prob |

@@ -1,0 +1,1193 @@
+ATOM   3559  N   SER C 349      15.812  -6.244   7.657  0.00  0.00      PROC
+ATOM   3561  CA  SER C 349      14.523  -5.634   7.303  0.00  0.00      PROC
+ATOM   3563  CB  SER C 349      13.481  -5.685   8.470  0.00  0.00      PROC
+ATOM   3566  OG  SER C 349      13.030  -7.030   8.501  0.00  0.00      PROC
+ATOM   3568  C   SER C 349      14.894  -4.206   6.925  0.00  0.00      PROC
+ATOM   3569  O   SER C 349      15.904  -3.580   7.344  0.00  0.00      PROC
+ATOM      0  H   SER C 349      15.987  -6.180   8.497  0.00  0.00      PROC H   new
+ATOM      0  HA  SER C 349      14.080  -6.111   6.584  0.00  0.00      PROC H   new
+ATOM      0  HB2 SER C 349      13.886  -5.431   9.314  0.00  0.00      PROC H   new
+ATOM      0  HB3 SER C 349      12.746  -5.072   8.312  0.00  0.00      PROC H   new
+ATOM      0  HG  SER C 349      12.464  -7.122   9.115  0.00  0.00      PROC H   new
+ATOM   3570  N   VAL C 350      14.037  -3.621   6.074  0.00  0.00      PROC
+ATOM   3572  CA  VAL C 350      14.398  -2.368   5.417  0.00  0.00      PROC
+ATOM   3574  CB  VAL C 350      13.445  -2.034   4.297  0.00  0.00      PROC
+ATOM   3576  CG1 VAL C 350      12.040  -2.097   4.812  0.00  0.00      PROC
+ATOM   3580  CG2 VAL C 350      13.824  -0.669   3.590  0.00  0.00      PROC
+ATOM   3584  C   VAL C 350      14.435  -1.216   6.341  0.00  0.00      PROC
+ATOM   3585  O   VAL C 350      15.049  -0.226   6.073  0.00  0.00      PROC
+ATOM      0  H   VAL C 350      13.260  -3.930   5.871  0.00  0.00      PROC H   new
+ATOM      0  HA  VAL C 350      15.291  -2.518   5.069  0.00  0.00      PROC H   new
+ATOM      0  HB  VAL C 350      13.519  -2.695   3.591  0.00  0.00      PROC H   new
+ATOM      0 HG11 VAL C 350      11.423  -1.883   4.095  0.00  0.00      PROC H   new
+ATOM      0 HG12 VAL C 350      11.855  -2.991   5.141  0.00  0.00      PROC H   new
+ATOM      0 HG13 VAL C 350      11.931  -1.458   5.534  0.00  0.00      PROC H   new
+ATOM      0 HG21 VAL C 350      13.192  -0.487   2.877  0.00  0.00      PROC H   new
+ATOM      0 HG22 VAL C 350      13.795   0.051   4.239  0.00  0.00      PROC H   new
+ATOM      0 HG23 VAL C 350      14.718  -0.734   3.220  0.00  0.00      PROC H   new
+ATOM   3586  N   TYR C 351      13.703  -1.196   7.457  0.00  0.00      PROC
+ATOM   3588  CA  TYR C 351      13.704  -0.065   8.393  0.00  0.00      PROC
+ATOM   3590  CB  TYR C 351      12.428  -0.168   9.260  0.00  0.00      PROC
+ATOM   3593  CG  TYR C 351      12.374  -1.144  10.386  0.00  0.00      PROC
+ATOM   3594  CD1 TYR C 351      12.084  -2.514  10.180  0.00  0.00      PROC
+ATOM   3596  CE1 TYR C 351      12.070  -3.482  11.222  0.00  0.00      PROC
+ATOM   3598  CZ  TYR C 351      12.515  -3.163  12.453  0.00  0.00      PROC
+ATOM   3599  OH  TYR C 351      12.484  -4.181  13.427  0.00  0.00      PROC
+ATOM   3601  CD2 TYR C 351      12.790  -0.831  11.687  0.00  0.00      PROC
+ATOM   3603  CE2 TYR C 351      12.861  -1.861  12.720  0.00  0.00      PROC
+ATOM   3605  C   TYR C 351      14.978  -0.201   9.300  0.00  0.00      PROC
+ATOM   3606  O   TYR C 351      15.392   0.820   9.905  0.00  0.00      PROC
+ATOM      0  H   TYR C 351      13.188  -1.842   7.695  0.00  0.00      PROC H   new
+ATOM      0  HA  TYR C 351      13.717   0.788   7.931  0.00  0.00      PROC H   new
+ATOM      0  HB2 TYR C 351      12.259   0.712   9.631  0.00  0.00      PROC H   new
+ATOM      0  HB3 TYR C 351      11.689  -0.372   8.665  0.00  0.00      PROC H   new
+ATOM      0  HD1 TYR C 351      11.892  -2.797   9.315  0.00  0.00      PROC H   new
+ATOM      0  HD2 TYR C 351      13.024   0.045  11.896  0.00  0.00      PROC H   new
+ATOM      0  HE1 TYR C 351      11.752  -4.339  11.053  0.00  0.00      PROC H   new
+ATOM      0  HE2 TYR C 351      13.146  -1.631  13.575  0.00  0.00      PROC H   new
+ATOM      0  HH  TYR C 351      12.781  -3.883  14.154  0.00  0.00      PROC H   new
+ATOM   3607  N   ALA C 352      15.659  -1.329   9.247  0.00  0.00      PROC
+ATOM   3609  CA  ALA C 352      16.728  -1.628  10.192  0.00  0.00      PROC
+ATOM   3611  CB  ALA C 352      16.285  -2.773  11.138  0.00  0.00      PROC
+ATOM   3615  C   ALA C 352      18.010  -1.977   9.415  0.00  0.00      PROC
+ATOM   3616  O   ALA C 352      18.986  -2.473  10.008  0.00  0.00      PROC
+ATOM      0  H   ALA C 352      15.519  -1.946   8.665  0.00  0.00      PROC H   new
+ATOM      0  HA  ALA C 352      16.918  -0.854  10.745  0.00  0.00      PROC H   new
+ATOM      0  HB1 ALA C 352      16.999  -2.969  11.765  0.00  0.00      PROC H   new
+ATOM      0  HB2 ALA C 352      15.492  -2.501  11.626  0.00  0.00      PROC H   new
+ATOM      0  HB3 ALA C 352      16.087  -3.566  10.616  0.00  0.00      PROC H   new
+ATOM   3617  N   TRP C 353      18.112  -1.761   8.081  0.00  0.00      PROC
+ATOM   3619  CA  TRP C 353      19.276  -1.804   7.166  0.00  0.00      PROC
+ATOM   3621  CB  TRP C 353      19.117  -0.758   6.110  0.00  0.00      PROC
+ATOM   3624  CG  TRP C 353      18.829   0.656   6.589  0.00  0.00      PROC
+ATOM   3625  CD1 TRP C 353      17.700   1.064   7.137  0.00  0.00      PROC
+ATOM   3627  NE1 TRP C 353      17.833   2.377   7.530  0.00  0.00      PROC
+ATOM   3629  CE2 TRP C 353      19.079   2.743   7.186  0.00  0.00      PROC
+ATOM   3630  CD2 TRP C 353      19.741   1.700   6.521  0.00  0.00      PROC
+ATOM   3631  CE3 TRP C 353      21.028   1.832   6.048  0.00  0.00      PROC
+ATOM   3633  CZ3 TRP C 353      21.657   3.002   6.404  0.00  0.00      PROC
+ATOM   3635  CZ2 TRP C 353      19.762   3.929   7.439  0.00  0.00      PROC
+ATOM   3637  CH2 TRP C 353      21.086   4.040   7.090  0.00  0.00      PROC
+ATOM   3639  C   TRP C 353      20.625  -1.785   7.654  0.00  0.00      PROC
+ATOM   3640  O   TRP C 353      21.039  -0.983   8.464  0.00  0.00      PROC
+ATOM      0  H   TRP C 353      17.403  -1.559   7.638  0.00  0.00      PROC H   new
+ATOM      0  HA  TRP C 353      19.217  -2.721   6.855  0.00  0.00      PROC H   new
+ATOM      0  HB2 TRP C 353      19.928  -0.738   5.578  0.00  0.00      PROC H   new
+ATOM      0  HB3 TRP C 353      18.397  -1.030   5.520  0.00  0.00      PROC H   new
+ATOM      0  HD1 TRP C 353      16.935   0.546   7.241  0.00  0.00      PROC H   new
+ATOM      0  HE1 TRP C 353      17.239   2.864   7.917  0.00  0.00      PROC H   new
+ATOM      0  HE3 TRP C 353      21.440   1.180   5.528  0.00  0.00      PROC H   new
+ATOM      0  HZ2 TRP C 353      19.324   4.643   7.843  0.00  0.00      PROC H   new
+ATOM      0  HZ3 TRP C 353      22.549   3.096   6.157  0.00  0.00      PROC H   new
+ATOM      0  HH2 TRP C 353      21.579   4.797   7.313  0.00  0.00      PROC H   new
+ATOM   4346  N   PHE C 400      19.422  -4.734   2.408  0.00  0.00      PROC
+ATOM   4348  CA  PHE C 400      18.201  -5.119   3.122  0.00  0.00      PROC
+ATOM   4350  CB  PHE C 400      17.492  -3.933   3.786  0.00  0.00      PROC
+ATOM   4353  CG  PHE C 400      17.353  -2.826   2.768  0.00  0.00      PROC
+ATOM   4354  CD1 PHE C 400      16.281  -2.952   1.834  0.00  0.00      PROC
+ATOM   4356  CE1 PHE C 400      16.129  -1.969   0.830  0.00  0.00      PROC
+ATOM   4358  CZ  PHE C 400      17.077  -0.943   0.754  0.00  0.00      PROC
+ATOM   4360  CD2 PHE C 400      18.308  -1.724   2.643  0.00  0.00      PROC
+ATOM   4362  CE2 PHE C 400      18.159  -0.814   1.641  0.00  0.00      PROC
+ATOM   4364  C   PHE C 400      17.209  -5.800   2.193  0.00  0.00      PROC
+ATOM   4365  O   PHE C 400      17.458  -5.913   1.021  0.00  0.00      PROC
+ATOM      0  H   PHE C 400      19.339  -4.677   1.554  0.00  0.00      PROC H   new
+ATOM      0  HA  PHE C 400      18.495  -5.732   3.814  0.00  0.00      PROC H   new
+ATOM      0  HB2 PHE C 400      16.619  -4.202   4.113  0.00  0.00      PROC H   new
+ATOM      0  HB3 PHE C 400      17.999  -3.624   4.553  0.00  0.00      PROC H   new
+ATOM      0  HD1 PHE C 400      15.692  -3.670   1.885  0.00  0.00      PROC H   new
+ATOM      0  HD2 PHE C 400      19.013  -1.646   3.245  0.00  0.00      PROC H   new
+ATOM      0  HE1 PHE C 400      15.416  -2.003   0.234  0.00  0.00      PROC H   new
+ATOM      0  HE2 PHE C 400      18.766  -0.116   1.545  0.00  0.00      PROC H   new
+ATOM      0  HZ  PHE C 400      16.986  -0.311   0.078  0.00  0.00      PROC H   new
+ATOM   4366  N   VAL C 401      16.055  -6.235   2.660  0.00  0.00      PROC
+ATOM   4368  CA  VAL C 401      15.097  -6.959   1.908  0.00  0.00      PROC
+ATOM   4370  CB  VAL C 401      14.856  -8.308   2.538  0.00  0.00      PROC
+ATOM   4372  CG1 VAL C 401      13.563  -9.046   1.985  0.00  0.00      PROC
+ATOM   4376  CG2 VAL C 401      16.094  -9.180   2.140  0.00  0.00      PROC
+ATOM   4380  C   VAL C 401      13.803  -6.100   1.822  0.00  0.00      PROC
+ATOM   4381  O   VAL C 401      13.268  -5.635   2.847  0.00  0.00      PROC
+ATOM      0  H   VAL C 401      15.809  -6.101   3.473  0.00  0.00      PROC H   new
+ATOM      0  HA  VAL C 401      15.415  -7.129   1.008  0.00  0.00      PROC H   new
+ATOM      0  HB  VAL C 401      14.728  -8.189   3.492  0.00  0.00      PROC H   new
+ATOM      0 HG11 VAL C 401      13.465  -9.903   2.428  0.00  0.00      PROC H   new
+ATOM      0 HG12 VAL C 401      12.780  -8.501   2.159  0.00  0.00      PROC H   new
+ATOM      0 HG13 VAL C 401      13.653  -9.185   1.029  0.00  0.00      PROC H   new
+ATOM      0 HG21 VAL C 401      15.999 -10.068   2.518  0.00  0.00      PROC H   new
+ATOM      0 HG22 VAL C 401      16.148  -9.244   1.174  0.00  0.00      PROC H   new
+ATOM      0 HG23 VAL C 401      16.903  -8.768   2.482  0.00  0.00      PROC H   new
+ATOM   4382  N   ILE C 402      13.291  -5.943   0.611  0.00  0.00      PROC
+ATOM   4384  CA  ILE C 402      11.967  -5.446   0.402  0.00  0.00      PROC
+ATOM   4386  CB  ILE C 402      11.964  -3.918  -0.073  0.00  0.00      PROC
+ATOM   4388  CG2 ILE C 402      12.438  -3.059   1.138  0.00  0.00      PROC
+ATOM   4392  CG1 ILE C 402      12.767  -3.693  -1.401  0.00  0.00      PROC
+ATOM   4395  CD  ILE C 402      12.947  -2.179  -1.700  0.00  0.00      PROC
+ATOM   4399  C   ILE C 402      11.283  -6.300  -0.642  0.00  0.00      PROC
+ATOM   4400  O   ILE C 402      11.914  -7.068  -1.382  0.00  0.00      PROC
+ATOM      0  H   ILE C 402      13.716  -6.127  -0.114  0.00  0.00      PROC H   new
+ATOM      0  HA  ILE C 402      11.493  -5.489   1.247  0.00  0.00      PROC H   new
+ATOM      0  HB  ILE C 402      11.070  -3.634  -0.321  0.00  0.00      PROC H   new
+ATOM      0 HG21 ILE C 402      12.449  -2.122   0.886  0.00  0.00      PROC H   new
+ATOM      0 HG22 ILE C 402      11.830  -3.186   1.883  0.00  0.00      PROC H   new
+ATOM      0 HG23 ILE C 402      13.331  -3.333   1.400  0.00  0.00      PROC H   new
+ATOM   4401  N   ARG C 403       9.942  -6.274  -0.719  0.00  0.00      PROC
+ATOM   4403  CA  ARG C 403       9.233  -6.999  -1.788  0.00  0.00      PROC
+ATOM   4405  CB  ARG C 403       7.701  -7.153  -1.556  0.00  0.00      PROC
+ATOM   4408  CG  ARG C 403       7.010  -5.787  -1.613  0.00  0.00      PROC
+ATOM   4411  CD  ARG C 403       5.486  -5.801  -1.479  0.00  0.00      PROC
+ATOM   4414  NE  ARG C 403       4.979  -5.934  -2.856  0.00  0.00      PROC
+ATOM   4416  CZ  ARG C 403       3.710  -5.550  -3.118  0.00  0.00      PROC
+ATOM   4417  NH1 ARG C 403       2.965  -5.035  -2.116  0.00  0.00      PROC
+ATOM   4420  NH2 ARG C 403       3.116  -5.735  -4.235  0.00  0.00      PROC
+ATOM   4423  C   ARG C 403       9.533  -6.384  -3.159  0.00  0.00      PROC
+ATOM   4424  O   ARG C 403       9.801  -5.233  -3.252  0.00  0.00      PROC
+ATOM      0  H   ARG C 403       9.432  -5.850  -0.171  0.00  0.00      PROC H   new
+ATOM      0  HA  ARG C 403       9.582  -7.904  -1.765  0.00  0.00      PROC H   new
+ATOM      0  HB2 ARG C 403       7.324  -7.741  -2.229  0.00  0.00      PROC H   new
+ATOM      0  HB3 ARG C 403       7.539  -7.568  -0.694  0.00  0.00      PROC H   new
+ATOM      0  HG2 ARG C 403       7.374  -5.230  -0.907  0.00  0.00      PROC H   new
+ATOM      0  HG3 ARG C 403       7.239  -5.363  -2.455  0.00  0.00      PROC H   new
+ATOM      0  HD2 ARG C 403       5.190  -6.539  -0.924  0.00  0.00      PROC H   new
+ATOM      0  HD3 ARG C 403       5.163  -4.986  -1.064  0.00  0.00      PROC H   new
+ATOM      0  HE  ARG C 403       5.480  -6.249  -3.480  0.00  0.00      PROC H   new
+ATOM      0 HH11 ARG C 403       3.300  -4.956  -1.328  0.00  0.00      PROC H   new
+ATOM      0 HH12 ARG C 403       2.156  -4.786  -2.266  0.00  0.00      PROC H   new
+ATOM      0 HH21 ARG C 403       3.527  -6.127  -4.881  0.00  0.00      PROC H   new
+ATOM      0 HH22 ARG C 403       2.306  -5.467  -4.341  0.00  0.00      PROC H   new
+ATOM   4432  N   ASP C 405       8.049  -5.284  -6.101  0.00  0.00      PROC
+ATOM   4434  CA  ASP C 405       7.368  -3.993  -6.582  0.00  0.00      PROC
+ATOM   4436  CB  ASP C 405       5.758  -4.140  -6.348  0.00  0.00      PROC
+ATOM   4439  CG  ASP C 405       5.283  -5.246  -7.163  0.00  0.00      PROC
+ATOM   4440  OD1 ASP C 405       5.577  -5.358  -8.367  0.00  0.00      PROC
+ATOM   4441  OD2 ASP C 405       4.339  -5.929  -6.668  0.00  0.00      PROC
+ATOM   4442  C   ASP C 405       7.822  -2.724  -5.838  0.00  0.00      PROC
+ATOM   4443  O   ASP C 405       7.596  -1.655  -6.390  0.00  0.00      PROC
+ATOM      0  H   ASP C 405       7.529  -5.834  -5.693  0.00  0.00      PROC H   new
+ATOM      0  HA  ASP C 405       7.614  -3.888  -7.514  0.00  0.00      PROC H   new
+ATOM      0  HB2 ASP C 405       5.565  -4.302  -5.411  0.00  0.00      PROC H   new
+ATOM      0  HB3 ASP C 405       5.304  -3.319  -6.593  0.00  0.00      PROC H   new
+ATOM   4444  N   GLU C 406       8.425  -2.740  -4.651  0.00  0.00      PROC
+ATOM   4446  CA  GLU C 406       8.882  -1.495  -3.989  0.00  0.00      PROC
+ATOM   4448  CB  GLU C 406       8.734  -1.722  -2.470  0.00  0.00      PROC
+ATOM   4451  CG  GLU C 406       7.288  -2.100  -1.986  0.00  0.00      PROC
+ATOM   4454  CD  GLU C 406       6.419  -0.901  -1.903  0.00  0.00      PROC
+ATOM   4455  OE1 GLU C 406       6.505   0.100  -2.659  0.00  0.00      PROC
+ATOM   4456  OE2 GLU C 406       5.451  -1.096  -1.080  0.00  0.00      PROC
+ATOM   4457  C   GLU C 406      10.364  -1.116  -4.234  0.00  0.00      PROC
+ATOM   4458  O   GLU C 406      10.962  -0.179  -3.790  0.00  0.00      PROC
+ATOM      0  H   GLU C 406       8.584  -3.457  -4.204  0.00  0.00      PROC H   new
+ATOM      0  HA  GLU C 406       8.346  -0.775  -4.357  0.00  0.00      PROC H   new
+ATOM      0  HB2 GLU C 406       9.344  -2.428  -2.202  0.00  0.00      PROC H   new
+ATOM      0  HB3 GLU C 406       9.013  -0.916  -2.009  0.00  0.00      PROC H   new
+ATOM      0  HG2 GLU C 406       6.898  -2.744  -2.598  0.00  0.00      PROC H   new
+ATOM      0  HG3 GLU C 406       7.337  -2.528  -1.117  0.00  0.00      PROC H   new
+ATOM   4459  N   VAL C 407      11.065  -1.882  -5.094  0.00  0.00      PROC
+ATOM   4461  CA  VAL C 407      12.424  -1.673  -5.557  0.00  0.00      PROC
+ATOM   4463  CB  VAL C 407      12.924  -2.933  -6.124  0.00  0.00      PROC
+ATOM   4465  CG1 VAL C 407      14.500  -2.807  -6.266  0.00  0.00      PROC
+ATOM   4469  CG2 VAL C 407      12.659  -4.157  -5.187  0.00  0.00      PROC
+ATOM   4473  C   VAL C 407      12.566  -0.506  -6.523  0.00  0.00      PROC
+ATOM   4474  O   VAL C 407      13.602   0.142  -6.553  0.00  0.00      PROC
+ATOM      0  H   VAL C 407      10.718  -2.589  -5.440  0.00  0.00      PROC H   new
+ATOM      0  HA  VAL C 407      12.969  -1.419  -4.796  0.00  0.00      PROC H   new
+ATOM      0  HB  VAL C 407      12.469  -3.078  -6.968  0.00  0.00      PROC H   new
+ATOM      0 HG11 VAL C 407      14.858  -3.628  -6.639  0.00  0.00      PROC H   new
+ATOM      0 HG12 VAL C 407      14.714  -2.065  -6.853  0.00  0.00      PROC H   new
+ATOM      0 HG13 VAL C 407      14.892  -2.651  -5.393  0.00  0.00      PROC H   new
+ATOM      0 HG21 VAL C 407      13.005  -4.963  -5.601  0.00  0.00      PROC H   new
+ATOM      0 HG22 VAL C 407      13.103  -4.015  -4.336  0.00  0.00      PROC H   new
+ATOM      0 HG23 VAL C 407      11.705  -4.253  -5.042  0.00  0.00      PROC H   new
+ATOM   4499  N   GLN C 409      11.429   2.089  -5.779  0.00  0.00      PROC
+ATOM   4501  CA  GLN C 409      11.532   3.214  -4.807  0.00  0.00      PROC
+ATOM   4503  CB  GLN C 409      10.523   3.084  -3.611  0.00  0.00      PROC
+ATOM   4506  CG  GLN C 409       9.074   2.680  -3.957  0.00  0.00      PROC
+ATOM   4509  CD  GLN C 409       8.422   3.404  -5.097  0.00  0.00      PROC
+ATOM   4510  OE1 GLN C 409       7.874   2.868  -6.056  0.00  0.00      PROC
+ATOM   4511  NE2 GLN C 409       8.089   4.705  -4.853  0.00  0.00      PROC
+ATOM   4514  C   GLN C 409      12.964   3.411  -4.236  0.00  0.00      PROC
+ATOM   4515  O   GLN C 409      13.311   4.406  -3.673  0.00  0.00      PROC
+ATOM      0  H   GLN C 409      11.361   1.316  -5.408  0.00  0.00      PROC H   new
+ATOM      0  HA  GLN C 409      11.301   3.996  -5.332  0.00  0.00      PROC H   new
+ATOM      0  HB2 GLN C 409      10.877   2.431  -2.987  0.00  0.00      PROC H   new
+ATOM      0  HB3 GLN C 409      10.496   3.935  -3.146  0.00  0.00      PROC H   new
+ATOM      0  HG2 GLN C 409       9.065   1.731  -4.157  0.00  0.00      PROC H   new
+ATOM      0  HG3 GLN C 409       8.528   2.808  -3.166  0.00  0.00      PROC H   new
+ATOM      0 HE21 GLN C 409       8.446   5.124  -4.192  0.00  0.00      PROC H   new
+ATOM      0 HE22 GLN C 409       7.522   5.106  -5.360  0.00  0.00      PROC H   new
+ATOM   4516  N   ILE C 410      13.836   2.436  -4.591  0.00  0.00      PROC
+ATOM   4518  CA  ILE C 410      15.213   2.615  -4.192  0.00  0.00      PROC
+ATOM   4520  CB  ILE C 410      15.668   1.251  -3.780  0.00  0.00      PROC
+ATOM   4522  CG2 ILE C 410      17.012   1.408  -3.046  0.00  0.00      PROC
+ATOM   4526  CG1 ILE C 410      14.691   0.526  -2.840  0.00  0.00      PROC
+ATOM   4529  CD  ILE C 410      14.147   1.348  -1.605  0.00  0.00      PROC
+ATOM   4533  C   ILE C 410      16.070   3.387  -5.207  0.00  0.00      PROC
+ATOM   4534  O   ILE C 410      16.805   2.728  -5.934  0.00  0.00      PROC
+ATOM      0  H   ILE C 410      13.651   1.720  -5.031  0.00  0.00      PROC H   new
+ATOM      0  HA  ILE C 410      15.316   3.220  -3.441  0.00  0.00      PROC H   new
+ATOM      0  HB  ILE C 410      15.734   0.714  -4.585  0.00  0.00      PROC H   new
+ATOM      0 HG21 ILE C 410      17.332   0.536  -2.766  0.00  0.00      PROC H   new
+ATOM      0 HG22 ILE C 410      17.661   1.814  -3.642  0.00  0.00      PROC H   new
+ATOM      0 HG23 ILE C 410      16.891   1.973  -2.267  0.00  0.00      PROC H   new
+ATOM   4566  N   GLN C 414      13.091   9.697  -4.834  0.00  0.00      PROC
+ATOM   4568  CA  GLN C 414      11.961   8.867  -4.650  0.00  0.00      PROC
+ATOM   4570  CB  GLN C 414      12.292   7.316  -4.642  0.00  0.00      PROC
+ATOM   4573  CG  GLN C 414      12.717   6.869  -5.965  0.00  0.00      PROC
+ATOM   4576  CD  GLN C 414      11.702   6.789  -7.174  0.00  0.00      PROC
+ATOM   4577  OE1 GLN C 414      10.661   6.143  -7.108  0.00  0.00      PROC
+ATOM   4578  NE2 GLN C 414      12.015   7.543  -8.284  0.00  0.00      PROC
+ATOM   4581  C   GLN C 414      11.171   9.237  -3.430  0.00  0.00      PROC
+ATOM   4582  O   GLN C 414      11.755   9.536  -2.313  0.00  0.00      PROC
+ATOM      0  H   GLN C 414      13.836   9.323  -4.624  0.00  0.00      PROC H   new
+ATOM      0  HA  GLN C 414      11.413   9.031  -5.434  0.00  0.00      PROC H   new
+ATOM      0  HB2 GLN C 414      12.991   7.134  -3.995  0.00  0.00      PROC H   new
+ATOM      0  HB3 GLN C 414      11.509   6.816  -4.363  0.00  0.00      PROC H   new
+ATOM      0  HG2 GLN C 414      13.440   7.454  -6.242  0.00  0.00      PROC H   new
+ATOM      0  HG3 GLN C 414      13.095   5.983  -5.855  0.00  0.00      PROC H   new
+ATOM      0 HE21 GLN C 414      12.751   7.988  -8.308  0.00  0.00      PROC H   new
+ATOM      0 HE22 GLN C 414      11.475   7.569  -8.953  0.00  0.00      PROC H   new
+ATOM   4583  N   THR C 415       9.817   9.291  -3.637  0.00  0.00      PROC
+ATOM   4585  CA  THR C 415       8.884   9.287  -2.557  0.00  0.00      PROC
+ATOM   4587  CB  THR C 415       7.992  10.552  -2.563  0.00  0.00      PROC
+ATOM   4589  OG1 THR C 415       6.893  10.481  -1.633  0.00  0.00      PROC
+ATOM   4591  CG2 THR C 415       7.392  10.670  -4.008  0.00  0.00      PROC
+ATOM   4595  C   THR C 415       8.090   7.977  -2.634  0.00  0.00      PROC
+ATOM   4596  O   THR C 415       7.990   7.368  -3.679  0.00  0.00      PROC
+ATOM      0  H   THR C 415       9.454   9.330  -4.416  0.00  0.00      PROC H   new
+ATOM      0  HA  THR C 415       9.347   9.323  -1.705  0.00  0.00      PROC H   new
+ATOM      0  HB  THR C 415       8.537  11.311  -2.302  0.00  0.00      PROC H   new
+ATOM      0  HG1 THR C 415       6.444  11.190  -1.675  0.00  0.00      PROC H   new
+ATOM      0 HG21 THR C 415       6.822  11.454  -4.059  0.00  0.00      PROC H   new
+ATOM      0 HG22 THR C 415       8.113  10.752  -4.652  0.00  0.00      PROC H   new
+ATOM      0 HG23 THR C 415       6.869   9.877  -4.207  0.00  0.00      PROC H   new
+ATOM   4597  N   GLY C 416       7.697   7.444  -1.419  0.00  0.00      PROC
+ATOM   4599  CA  GLY C 416       7.205   6.119  -1.159  0.00  0.00      PROC
+ATOM   4602  C   GLY C 416       7.141   5.881   0.365  0.00  0.00      PROC
+ATOM   4603  O   GLY C 416       7.840   6.562   1.129  0.00  0.00      PROC
+ATOM      0  H   GLY C 416       7.729   7.915  -0.700  0.00  0.00      PROC H   new
+ATOM      0  HA2 GLY C 416       6.324   6.008  -1.550  0.00  0.00      PROC H   new
+ATOM      0  HA3 GLY C 416       7.785   5.461  -1.574  0.00  0.00      PROC H   new
+ATOM   4604  N   LYS C 417       6.412   4.796   0.721  0.00  0.00      PROC
+ATOM   4606  CA  LYS C 417       6.439   4.267   2.083  0.00  0.00      PROC
+ATOM   4608  CB  LYS C 417       5.404   3.159   2.185  0.00  0.00      PROC
+ATOM   4611  CG  LYS C 417       3.976   3.708   1.860  0.00  0.00      PROC
+ATOM   4614  CD  LYS C 417       3.042   2.551   1.676  0.00  0.00      PROC
+ATOM   4617  CE  LYS C 417       1.760   2.815   0.911  0.00  0.00      PROC
+ATOM   4620  NZ  LYS C 417       1.137   1.502   0.492  0.00  0.00      PROC
+ATOM   4624  C   LYS C 417       7.764   3.702   2.496  0.00  0.00      PROC
+ATOM   4625  O   LYS C 417       8.362   3.841   3.544  0.00  0.00      PROC
+ATOM      0  H   LYS C 417       5.901   4.363   0.182  0.00  0.00      PROC H   new
+ATOM      0  HA  LYS C 417       6.254   5.013   2.674  0.00  0.00      PROC H   new
+ATOM      0  HB2 LYS C 417       5.628   2.443   1.571  0.00  0.00      PROC H   new
+ATOM      0  HB3 LYS C 417       5.415   2.781   3.078  0.00  0.00      PROC H   new
+ATOM      0  HG2 LYS C 417       3.665   4.280   2.579  0.00  0.00      PROC H   new
+ATOM      0  HG3 LYS C 417       4.000   4.251   1.056  0.00  0.00      PROC H   new
+ATOM      0  HD2 LYS C 417       3.525   1.844   1.220  0.00  0.00      PROC H   new
+ATOM      0  HD3 LYS C 417       2.805   2.213   2.554  0.00  0.00      PROC H   new
+ATOM      0  HE2 LYS C 417       1.140   3.315   1.464  0.00  0.00      PROC H   new
+ATOM      0  HE3 LYS C 417       1.945   3.359   0.130  0.00  0.00      PROC H   new
+ATOM      0  HZ1 LYS C 417       0.385   1.660   0.043  0.00  0.00      PROC H   new
+ATOM      0  HZ2 LYS C 417       1.705   1.057  -0.029  0.00  0.00      PROC H   new
+ATOM      0  HZ3 LYS C 417       0.954   1.016   1.215  0.00  0.00      PROC H   new
+ATOM   4626  N   ILE C 418       8.325   2.922   1.576  0.00  0.00      PROC
+ATOM   4628  CA  ILE C 418       9.652   2.247   1.716  0.00  0.00      PROC
+ATOM   4630  CB  ILE C 418       9.776   1.108   0.682  0.00  0.00      PROC
+ATOM   4632  CG2 ILE C 418      11.159   0.459   0.626  0.00  0.00      PROC
+ATOM   4636  CG1 ILE C 418       8.781  -0.003   1.003  0.00  0.00      PROC
+ATOM   4639  CD  ILE C 418       8.811  -0.682   2.343  0.00  0.00      PROC
+ATOM   4643  C   ILE C 418      10.746   3.227   1.453  0.00  0.00      PROC
+ATOM   4644  O   ILE C 418      11.821   3.041   2.008  0.00  0.00      PROC
+ATOM      0  H   ILE C 418       7.945   2.755   0.823  0.00  0.00      PROC H   new
+ATOM      0  HA  ILE C 418       9.723   1.892   2.616  0.00  0.00      PROC H   new
+ATOM      0  HB  ILE C 418       9.601   1.529  -0.174  0.00  0.00      PROC H   new
+ATOM      0 HG21 ILE C 418      11.160  -0.244  -0.043  0.00  0.00      PROC H   new
+ATOM      0 HG22 ILE C 418      11.821   1.128   0.392  0.00  0.00      PROC H   new
+ATOM      0 HG23 ILE C 418      11.374   0.080   1.493  0.00  0.00      PROC H   new
+ATOM   4645  N   ALA C 419      10.530   4.383   0.779  0.00  0.00      PROC
+ATOM   4647  CA  ALA C 419      11.532   5.433   0.785  0.00  0.00      PROC
+ATOM   4649  CB  ALA C 419      11.465   6.303  -0.492  0.00  0.00      PROC
+ATOM   4653  C   ALA C 419      11.382   6.343   2.057  0.00  0.00      PROC
+ATOM   4654  O   ALA C 419      12.117   6.218   3.059  0.00  0.00      PROC
+ATOM      0  H   ALA C 419       9.820   4.560   0.327  0.00  0.00      PROC H   new
+ATOM      0  HA  ALA C 419      12.398   4.996   0.806  0.00  0.00      PROC H   new
+ATOM      0  HB1 ALA C 419      12.147   6.991  -0.451  0.00  0.00      PROC H   new
+ATOM      0  HB2 ALA C 419      11.615   5.746  -1.272  0.00  0.00      PROC H   new
+ATOM      0  HB3 ALA C 419      10.591   6.719  -0.555  0.00  0.00      PROC H   new
+ATOM   4655  N   ASP C 420      10.360   7.180   2.086  0.00  0.00      PROC
+ATOM   4657  CA  ASP C 420      10.057   8.152   3.129  0.00  0.00      PROC
+ATOM   4659  CB  ASP C 420       8.794   9.035   2.762  0.00  0.00      PROC
+ATOM   4662  CG  ASP C 420       8.923   9.587   1.383  0.00  0.00      PROC
+ATOM   4663  OD1 ASP C 420       7.970   9.516   0.635  0.00  0.00      PROC
+ATOM   4664  OD2 ASP C 420      10.027  10.156   1.099  0.00  0.00      PROC
+ATOM   4665  C   ASP C 420       9.849   7.606   4.592  0.00  0.00      PROC
+ATOM   4666  O   ASP C 420      10.233   8.367   5.483  0.00  0.00      PROC
+ATOM      0  H   ASP C 420       9.780   7.199   1.451  0.00  0.00      PROC H   new
+ATOM      0  HA  ASP C 420      10.877   8.670   3.150  0.00  0.00      PROC H   new
+ATOM      0  HB2 ASP C 420       7.988   8.499   2.827  0.00  0.00      PROC H   new
+ATOM      0  HB3 ASP C 420       8.704   9.761   3.399  0.00  0.00      PROC H   new
+ATOM   4667  N   TYR C 421       9.358   6.408   4.774  0.00  0.00      PROC
+ATOM   4669  CA  TYR C 421       9.210   5.928   6.160  0.00  0.00      PROC
+ATOM   4671  CB  TYR C 421       7.796   5.372   6.529  0.00  0.00      PROC
+ATOM   4674  CG  TYR C 421       6.721   6.429   6.145  0.00  0.00      PROC
+ATOM   4675  CD1 TYR C 421       6.830   7.816   6.022  0.00  0.00      PROC
+ATOM   4677  CE1 TYR C 421       5.809   8.630   5.642  0.00  0.00      PROC
+ATOM   4679  CZ  TYR C 421       4.532   8.097   5.533  0.00  0.00      PROC
+ATOM   4680  OH  TYR C 421       3.477   8.944   5.316  0.00  0.00      PROC
+ATOM   4682  CD2 TYR C 421       5.451   5.874   6.032  0.00  0.00      PROC
+ATOM   4684  CE2 TYR C 421       4.345   6.741   5.764  0.00  0.00      PROC
+ATOM   4686  C   TYR C 421      10.280   4.950   6.515  0.00  0.00      PROC
+ATOM   4687  O   TYR C 421      10.193   4.364   7.620  0.00  0.00      PROC
+ATOM      0  H   TYR C 421       9.109   5.865   4.155  0.00  0.00      PROC H   new
+ATOM      0  HA  TYR C 421       9.311   6.726   6.703  0.00  0.00      PROC H   new
+ATOM      0  HB2 TYR C 421       7.630   4.540   6.060  0.00  0.00      PROC H   new
+ATOM      0  HB3 TYR C 421       7.750   5.177   7.478  0.00  0.00      PROC H   new
+ATOM      0  HD1 TYR C 421       7.652   8.207   6.212  0.00  0.00      PROC H   new
+ATOM      0  HD2 TYR C 421       5.323   4.958   6.129  0.00  0.00      PROC H   new
+ATOM      0  HE1 TYR C 421       5.964   9.528   5.458  0.00  0.00      PROC H   new
+ATOM      0  HE2 TYR C 421       3.484   6.389   5.744  0.00  0.00      PROC H   new
+ATOM      0  HH  TYR C 421       2.766   8.500   5.269  0.00  0.00      PROC H   new
+ATOM   4688  N   ASN C 422      11.176   4.571   5.661  0.00  0.00      PROC
+ATOM   4690  CA  ASN C 422      12.220   3.609   5.960  0.00  0.00      PROC
+ATOM   4692  CB  ASN C 422      11.870   2.207   5.429  0.00  0.00      PROC
+ATOM   4695  CG  ASN C 422      10.621   1.589   5.969  0.00  0.00      PROC
+ATOM   4696  OD1 ASN C 422      10.705   0.551   6.648  0.00  0.00      PROC
+ATOM   4697  ND2 ASN C 422       9.456   1.991   5.530  0.00  0.00      PROC
+ATOM   4700  C   ASN C 422      13.671   3.961   5.482  0.00  0.00      PROC
+ATOM   4701  O   ASN C 422      14.641   4.014   6.251  0.00  0.00      PROC
+ATOM      0  H   ASN C 422      11.208   4.870   4.855  0.00  0.00      PROC H   new
+ATOM      0  HA  ASN C 422      12.244   3.635   6.929  0.00  0.00      PROC H   new
+ATOM      0  HB2 ASN C 422      11.792   2.257   4.463  0.00  0.00      PROC H   new
+ATOM      0  HB3 ASN C 422      12.612   1.614   5.623  0.00  0.00      PROC H   new
+ATOM      0 HD21 ASN C 422       8.748   1.537   5.711  0.00  0.00      PROC H   new
+ATOM      0 HD22 ASN C 422       9.398   2.709   5.060  0.00  0.00      PROC H   new
+ATOM   4702  N   TYR C 423      13.896   4.227   4.159  0.00  0.00      PROC
+ATOM   4704  CA  TYR C 423      15.188   4.186   3.628  0.00  0.00      PROC
+ATOM   4706  CB  TYR C 423      15.516   2.700   3.184  0.00  0.00      PROC
+ATOM   4709  CG  TYR C 423      16.847   2.713   2.534  0.00  0.00      PROC
+ATOM   4710  CD1 TYR C 423      17.906   2.905   3.345  0.00  0.00      PROC
+ATOM   4712  CE1 TYR C 423      19.208   2.935   2.781  0.00  0.00      PROC
+ATOM   4714  CZ  TYR C 423      19.450   2.680   1.486  0.00  0.00      PROC
+ATOM   4715  OH  TYR C 423      20.739   2.773   0.905  0.00  0.00      PROC
+ATOM   4717  CD2 TYR C 423      17.042   2.446   1.158  0.00  0.00      PROC
+ATOM   4719  CE2 TYR C 423      18.301   2.460   0.599  0.00  0.00      PROC
+ATOM   4721  C   TYR C 423      15.301   5.132   2.433  0.00  0.00      PROC
+ATOM   4722  O   TYR C 423      15.041   4.858   1.274  0.00  0.00      PROC
+ATOM      0  H   TYR C 423      13.280   4.428   3.593  0.00  0.00      PROC H   new
+ATOM      0  HA  TYR C 423      15.824   4.472   4.302  0.00  0.00      PROC H   new
+ATOM      0  HB2 TYR C 423      15.517   2.107   3.952  0.00  0.00      PROC H   new
+ATOM      0  HB3 TYR C 423      14.840   2.370   2.571  0.00  0.00      PROC H   new
+ATOM      0  HD1 TYR C 423      17.785   3.016   4.260  0.00  0.00      PROC H   new
+ATOM      0  HD2 TYR C 423      16.306   2.258   0.621  0.00  0.00      PROC H   new
+ATOM      0  HE1 TYR C 423      19.927   3.141   3.334  0.00  0.00      PROC H   new
+ATOM      0  HE2 TYR C 423      18.420   2.334  -0.315  0.00  0.00      PROC H   new
+ATOM      0  HH  TYR C 423      20.694   2.577   0.090  0.00  0.00      PROC H   new
+ATOM   4723  N   LYS C 424      15.556   6.420   2.752  0.00  0.00      PROC
+ATOM   4725  CA  LYS C 424      15.684   7.502   1.812  0.00  0.00      PROC
+ATOM   4727  CB  LYS C 424      15.461   8.799   2.607  0.00  0.00      PROC
+ATOM   4730  CG  LYS C 424      15.196  10.132   1.836  0.00  0.00      PROC
+ATOM   4733  CD  LYS C 424      13.945   9.997   0.896  0.00  0.00      PROC
+ATOM   4736  CE  LYS C 424      13.551  11.325   0.282  0.00  0.00      PROC
+ATOM   4739  NZ  LYS C 424      12.131  11.273  -0.240  0.00  0.00      PROC
+ATOM   4743  C   LYS C 424      17.043   7.503   1.152  0.00  0.00      PROC
+ATOM   4744  O   LYS C 424      17.957   7.095   1.818  0.00  0.00      PROC
+ATOM      0  H   LYS C 424      15.660   6.676   3.566  0.00  0.00      PROC H   new
+ATOM      0  HA  LYS C 424      15.035   7.412   1.097  0.00  0.00      PROC H   new
+ATOM      0  HB2 LYS C 424      14.709   8.651   3.201  0.00  0.00      PROC H   new
+ATOM      0  HB3 LYS C 424      16.241   8.936   3.166  0.00  0.00      PROC H   new
+ATOM      0  HG2 LYS C 424      15.053  10.853   2.469  0.00  0.00      PROC H   new
+ATOM      0  HG3 LYS C 424      15.977  10.366   1.310  0.00  0.00      PROC H   new
+ATOM      0  HD2 LYS C 424      14.139   9.360   0.190  0.00  0.00      PROC H   new
+ATOM      0  HD3 LYS C 424      13.198   9.641   1.402  0.00  0.00      PROC H   new
+ATOM      0  HE2 LYS C 424      13.631  12.029   0.944  0.00  0.00      PROC H   new
+ATOM      0  HE3 LYS C 424      14.159  11.545  -0.441  0.00  0.00      PROC H   new
+ATOM      0  HZ1 LYS C 424      11.917  12.060  -0.597  0.00  0.00      PROC H   new
+ATOM      0  HZ2 LYS C 424      12.066  10.639  -0.861  0.00  0.00      PROC H   new
+ATOM      0  HZ3 LYS C 424      11.575  11.090   0.430  0.00  0.00      PROC H   new
+ATOM   5069  N   ASN C 448       6.888 -16.018   5.773  0.00  0.00      PROC
+ATOM   5071  CA  ASN C 448       7.891 -15.547   6.719  0.00  0.00      PROC
+ATOM   5073  CB  ASN C 448       9.350 -15.843   6.109  0.00  0.00      PROC
+ATOM   5076  CG  ASN C 448      10.498 -15.179   6.946  0.00  0.00      PROC
+ATOM   5077  OD1 ASN C 448      10.352 -14.493   7.929  0.00  0.00      PROC
+ATOM   5078  ND2 ASN C 448      11.748 -15.563   6.518  0.00  0.00      PROC
+ATOM   5081  C   ASN C 448       7.521 -14.162   7.161  0.00  0.00      PROC
+ATOM   5082  O   ASN C 448       7.296 -13.196   6.414  0.00  0.00      PROC
+ATOM      0  H   ASN C 448       6.956 -15.702   4.976  0.00  0.00      PROC H   new
+ATOM      0  HA  ASN C 448       7.923 -16.025   7.562  0.00  0.00      PROC H   new
+ATOM      0  HB2 ASN C 448       9.493 -16.802   6.073  0.00  0.00      PROC H   new
+ATOM      0  HB3 ASN C 448       9.388 -15.516   5.197  0.00  0.00      PROC H   new
+ATOM      0 HD21 ASN C 448      12.447 -15.314   6.953  0.00  0.00      PROC H   new
+ATOM      0 HD22 ASN C 448      11.831 -16.052   5.815  0.00  0.00      PROC H   new
+ATOM   5083  N   TYR C 449       7.490 -13.994   8.515  0.00  0.00      PROC
+ATOM   5085  CA  TYR C 449       7.055 -12.803   9.181  0.00  0.00      PROC
+ATOM   5087  CB  TYR C 449       5.887 -13.194  10.162  0.00  0.00      PROC
+ATOM   5090  CG  TYR C 449       4.794 -13.995   9.421  0.00  0.00      PROC
+ATOM   5091  CD1 TYR C 449       3.925 -13.216   8.657  0.00  0.00      PROC
+ATOM   5093  CE1 TYR C 449       2.894 -13.811   7.915  0.00  0.00      PROC
+ATOM   5095  CZ  TYR C 449       2.754 -15.216   7.930  0.00  0.00      PROC
+ATOM   5096  OH  TYR C 449       1.898 -15.829   6.975  0.00  0.00      PROC
+ATOM   5098  CD2 TYR C 449       4.714 -15.384   9.382  0.00  0.00      PROC
+ATOM   5100  CE2 TYR C 449       3.628 -15.958   8.711  0.00  0.00      PROC
+ATOM   5102  C   TYR C 449       8.193 -12.096   9.729  0.00  0.00      PROC
+ATOM   5103  O   TYR C 449       8.005 -11.031  10.358  0.00  0.00      PROC
+ATOM      0  H   TYR C 449       7.737 -14.611   9.061  0.00  0.00      PROC H   new
+ATOM      0  HA  TYR C 449       6.667 -12.144   8.584  0.00  0.00      PROC H   new
+ATOM      0  HB2 TYR C 449       6.239 -13.721  10.896  0.00  0.00      PROC H   new
+ATOM      0  HB3 TYR C 449       5.501 -12.392  10.548  0.00  0.00      PROC H   new
+ATOM      0  HD1 TYR C 449       4.030 -12.292   8.639  0.00  0.00      PROC H   new
+ATOM      0  HD2 TYR C 449       5.361 -15.914   9.789  0.00  0.00      PROC H   new
+ATOM      0  HE1 TYR C 449       2.309 -13.286   7.418  0.00  0.00      PROC H   new
+ATOM      0  HE2 TYR C 449       3.487 -16.874   8.792  0.00  0.00      PROC H   new
+ATOM      0  HH  TYR C 449       1.902 -16.661   7.088  0.00  0.00      PROC H   new
+ATOM   5104  N   ASN C 450       9.441 -12.567   9.640  0.00  0.00      PROC
+ATOM   5106  CA  ASN C 450      10.530 -12.009  10.444  0.00  0.00      PROC
+ATOM   5108  CB  ASN C 450      11.419 -13.239  10.802  0.00  0.00      PROC
+ATOM   5111  CG  ASN C 450      10.902 -14.404  11.628  0.00  0.00      PROC
+ATOM   5112  OD1 ASN C 450      11.389 -15.481  11.268  0.00  0.00      PROC
+ATOM   5113  ND2 ASN C 450      10.110 -14.269  12.704  0.00  0.00      PROC
+ATOM   5116  C   ASN C 450      11.191 -10.892   9.650  0.00  0.00      PROC
+ATOM   5117  O   ASN C 450      12.161 -10.260  10.039  0.00  0.00      PROC
+ATOM      0  H   ASN C 450       9.676 -13.210   9.119  0.00  0.00      PROC H   new
+ATOM      0  HA  ASN C 450      10.273 -11.579  11.274  0.00  0.00      PROC H   new
+ATOM      0  HB2 ASN C 450      11.731 -13.611   9.962  0.00  0.00      PROC H   new
+ATOM      0  HB3 ASN C 450      12.198 -12.894  11.266  0.00  0.00      PROC H   new
+ATOM      0 HD21 ASN C 450       9.917 -14.956  13.185  0.00  0.00      PROC H   new
+ATOM      0 HD22 ASN C 450       9.796 -13.496  12.912  0.00  0.00      PROC H   new
+ATOM   5118  N   TYR C 451      10.606 -10.599   8.453  0.00  0.00      PROC
+ATOM   5120  CA  TYR C 451      11.015  -9.560   7.543  0.00  0.00      PROC
+ATOM   5122  CB  TYR C 451      11.207 -10.165   6.148  0.00  0.00      PROC
+ATOM   5125  CG  TYR C 451      12.553 -10.752   5.918  0.00  0.00      PROC
+ATOM   5126  CD1 TYR C 451      13.683  -9.923   5.699  0.00  0.00      PROC
+ATOM   5128  CE1 TYR C 451      14.958 -10.442   5.475  0.00  0.00      PROC
+ATOM   5130  CZ  TYR C 451      15.130 -11.838   5.385  0.00  0.00      PROC
+ATOM   5131  OH  TYR C 451      16.360 -12.380   5.188  0.00  0.00      PROC
+ATOM   5133  CD2 TYR C 451      12.732 -12.101   5.829  0.00  0.00      PROC
+ATOM   5135  CE2 TYR C 451      13.998 -12.623   5.504  0.00  0.00      PROC
+ATOM   5137  C   TYR C 451       9.937  -8.527   7.485  0.00  0.00      PROC
+ATOM   5138  O   TYR C 451       8.839  -8.804   7.038  0.00  0.00      PROC
+ATOM      0  H   TYR C 451       9.928 -11.040   8.162  0.00  0.00      PROC H   new
+ATOM      0  HA  TYR C 451      11.846  -9.159   7.843  0.00  0.00      PROC H   new
+ATOM      0  HB2 TYR C 451      10.537 -10.853   6.010  0.00  0.00      PROC H   new
+ATOM      0  HB3 TYR C 451      11.048  -9.477   5.483  0.00  0.00      PROC H   new
+ATOM      0  HD1 TYR C 451      13.570  -9.000   5.705  0.00  0.00      PROC H   new
+ATOM      0  HD2 TYR C 451      12.018 -12.676   5.983  0.00  0.00      PROC H   new
+ATOM      0  HE1 TYR C 451      15.688  -9.872   5.386  0.00  0.00      PROC H   new
+ATOM      0  HE2 TYR C 451      14.077 -13.539   5.363  0.00  0.00      PROC H   new
+ATOM      0  HH  TYR C 451      16.296 -13.217   5.158  0.00  0.00      PROC H   new
+ATOM   5139  N   LEU C 452      10.165  -7.227   7.764  0.00  0.00      PROC
+ATOM   5141  CA  LEU C 452       9.135  -6.157   7.918  0.00  0.00      PROC
+ATOM   5143  CB  LEU C 452       8.801  -5.765   9.401  0.00  0.00      PROC
+ATOM   5146  CG  LEU C 452       8.638  -6.995  10.345  0.00  0.00      PROC
+ATOM   5148  CD1 LEU C 452       9.975  -7.387  10.901  0.00  0.00      PROC
+ATOM   5152  CD2 LEU C 452       7.594  -6.847  11.445  0.00  0.00      PROC
+ATOM   5156  C   LEU C 452       9.543  -4.871   7.189  0.00  0.00      PROC
+ATOM   5157  O   LEU C 452      10.700  -4.712   6.743  0.00  0.00      PROC
+ATOM      0  H   LEU C 452      10.963  -6.926   7.875  0.00  0.00      PROC H   new
+ATOM      0  HA  LEU C 452       8.341  -6.554   7.527  0.00  0.00      PROC H   new
+ATOM      0  HB2 LEU C 452       9.506  -5.194   9.744  0.00  0.00      PROC H   new
+ATOM      0  HB3 LEU C 452       7.982  -5.245   9.414  0.00  0.00      PROC H   new
+ATOM      0  HG  LEU C 452       8.284  -7.707   9.790  0.00  0.00      PROC H   new
+ATOM      0 HD11 LEU C 452       9.870  -8.152  11.488  0.00  0.00      PROC H   new
+ATOM      0 HD12 LEU C 452      10.573  -7.618  10.173  0.00  0.00      PROC H   new
+ATOM      0 HD13 LEU C 452      10.348  -6.645  11.402  0.00  0.00      PROC H   new
+ATOM      0 HD21 LEU C 452       7.566  -7.658  11.976  0.00  0.00      PROC H   new
+ATOM      0 HD22 LEU C 452       7.827  -6.096  12.013  0.00  0.00      PROC H   new
+ATOM      0 HD23 LEU C 452       6.723  -6.692  11.046  0.00  0.00      PROC H   new
+ATOM   5158  N   TYR C 453       8.654  -3.928   7.278  0.00  0.00      PROC
+ATOM   5160  CA  TYR C 453       8.837  -2.570   6.822  0.00  0.00      PROC
+ATOM   5162  CB  TYR C 453       8.468  -2.301   5.371  0.00  0.00      PROC
+ATOM   5165  CG  TYR C 453       7.094  -2.662   5.090  0.00  0.00      PROC
+ATOM   5166  CD1 TYR C 453       6.075  -1.660   5.059  0.00  0.00      PROC
+ATOM   5168  CE1 TYR C 453       4.792  -1.834   4.603  0.00  0.00      PROC
+ATOM   5170  CZ  TYR C 453       4.325  -3.135   4.322  0.00  0.00      PROC
+ATOM   5171  OH  TYR C 453       3.022  -3.309   3.892  0.00  0.00      PROC
+ATOM   5173  CD2 TYR C 453       6.581  -3.980   4.901  0.00  0.00      PROC
+ATOM   5175  CE2 TYR C 453       5.227  -4.164   4.398  0.00  0.00      PROC
+ATOM   5177  C   TYR C 453       8.068  -1.585   7.733  0.00  0.00      PROC
+ATOM   5178  O   TYR C 453       7.085  -1.992   8.356  0.00  0.00      PROC
+ATOM      0  H   TYR C 453       7.878  -4.061   7.625  0.00  0.00      PROC H   new
+ATOM      0  HA  TYR C 453       9.795  -2.430   6.876  0.00  0.00      PROC H   new
+ATOM      0  HB2 TYR C 453       8.603  -1.361   5.172  0.00  0.00      PROC H   new
+ATOM      0  HB3 TYR C 453       9.060  -2.802   4.788  0.00  0.00      PROC H   new
+ATOM      0  HD1 TYR C 453       6.301  -0.815   5.376  0.00  0.00      PROC H   new
+ATOM      0  HD2 TYR C 453       7.110  -4.719   5.098  0.00  0.00      PROC H   new
+ATOM      0  HE1 TYR C 453       4.235  -1.100   4.480  0.00  0.00      PROC H   new
+ATOM      0  HE2 TYR C 453       4.965  -5.011   4.118  0.00  0.00      PROC H   new
+ATOM      0  HH  TYR C 453       2.877  -4.126   3.761  0.00  0.00      PROC H   new
+ATOM   5179  N   ARG C 454       8.495  -0.312   7.896  0.00  0.00      PROC
+ATOM   5181  CA  ARG C 454       7.615   0.732   8.501  0.00  0.00      PROC
+ATOM   5183  CB  ARG C 454       8.448   1.826   9.226  0.00  0.00      PROC
+ATOM   5186  CG  ARG C 454       7.542   2.735  10.124  0.00  0.00      PROC
+ATOM   5189  CD  ARG C 454       8.238   3.835  10.931  0.00  0.00      PROC
+ATOM   5192  NE  ARG C 454       9.363   3.205  11.686  0.00  0.00      PROC
+ATOM   5194  CZ  ARG C 454       9.286   2.727  12.867  0.00  0.00      PROC
+ATOM   5195  NH1 ARG C 454       8.260   2.800  13.695  0.00  0.00      PROC
+ATOM   5198  NH2 ARG C 454      10.283   1.958  13.193  0.00  0.00      PROC
+ATOM   5201  C   ARG C 454       6.505   1.160   7.585  0.00  0.00      PROC
+ATOM   5202  O   ARG C 454       6.687   1.385   6.380  0.00  0.00      PROC
+ATOM      0  H   ARG C 454       9.276  -0.033   7.668  0.00  0.00      PROC H   new
+ATOM      0  HA  ARG C 454       7.103   0.347   9.229  0.00  0.00      PROC H   new
+ATOM      0  HB2 ARG C 454       9.130   1.406   9.773  0.00  0.00      PROC H   new
+ATOM      0  HB3 ARG C 454       8.908   2.373   8.570  0.00  0.00      PROC H   new
+ATOM      0  HG2 ARG C 454       6.878   3.154   9.555  0.00  0.00      PROC H   new
+ATOM      0  HG3 ARG C 454       7.064   2.163  10.745  0.00  0.00      PROC H   new
+ATOM      0  HD2 ARG C 454       8.571   4.530  10.342  0.00  0.00      PROC H   new
+ATOM      0  HD3 ARG C 454       7.613   4.256  11.541  0.00  0.00      PROC H   new
+ATOM      0  HE  ARG C 454      10.126   3.161  11.292  0.00  0.00      PROC H   new
+ATOM      0 HH11 ARG C 454       7.541   3.206  13.454  0.00  0.00      PROC H   new
+ATOM      0 HH12 ARG C 454       8.311   2.442  14.475  0.00  0.00      PROC H   new
+ATOM      0 HH21 ARG C 454      10.916   1.813  12.630  0.00  0.00      PROC H   new
+ATOM      0 HH22 ARG C 454      10.309   1.595  13.972  0.00  0.00      PROC H   new
+ATOM   5203  N   LEU C 455       5.250   1.263   8.215  0.00  0.00      PROC
+ATOM   5205  CA  LEU C 455       4.010   1.460   7.479  0.00  0.00      PROC
+ATOM   5207  CB  LEU C 455       3.031   0.287   7.780  0.00  0.00      PROC
+ATOM   5210  CG  LEU C 455       1.645   0.579   7.229  0.00  0.00      PROC
+ATOM   5212  CD1 LEU C 455       1.542   0.815   5.754  0.00  0.00      PROC
+ATOM   5216  CD2 LEU C 455       0.620  -0.506   7.604  0.00  0.00      PROC
+ATOM   5220  C   LEU C 455       3.482   2.817   7.661  0.00  0.00      PROC
+ATOM   5221  O   LEU C 455       3.002   3.567   6.733  0.00  0.00      PROC
+ATOM      0  H   LEU C 455       5.144   1.216   9.067  0.00  0.00      PROC H   new
+ATOM      0  HA  LEU C 455       4.169   1.418   6.523  0.00  0.00      PROC H   new
+ATOM      0  HB2 LEU C 455       3.372  -0.532   7.388  0.00  0.00      PROC H   new
+ATOM      0  HB3 LEU C 455       2.978   0.143   8.738  0.00  0.00      PROC H   new
+ATOM      0  HG  LEU C 455       1.443   1.423   7.662  0.00  0.00      PROC H   new
+ATOM      0 HD11 LEU C 455       0.618   0.990   5.518  0.00  0.00      PROC H   new
+ATOM      0 HD12 LEU C 455       2.088   1.579   5.509  0.00  0.00      PROC H   new
+ATOM      0 HD13 LEU C 455       1.854   0.029   5.278  0.00  0.00      PROC H   new
+ATOM      0 HD21 LEU C 455      -0.246  -0.276   7.231  0.00  0.00      PROC H   new
+ATOM      0 HD22 LEU C 455       0.908  -1.361   7.248  0.00  0.00      PROC H   new
+ATOM      0 HD23 LEU C 455       0.550  -0.566   8.570  0.00  0.00      PROC H   new
+ATOM   5222  N   PHE C 456       3.515   3.245   8.962  0.00  0.00      PROC
+ATOM   5224  CA  PHE C 456       2.956   4.488   9.455  0.00  0.00      PROC
+ATOM   5226  CB  PHE C 456       1.788   4.214  10.466  0.00  0.00      PROC
+ATOM   5229  CG  PHE C 456       0.539   3.521   9.782  0.00  0.00      PROC
+ATOM   5230  CD1 PHE C 456      -0.146   4.065   8.622  0.00  0.00      PROC
+ATOM   5232  CE1 PHE C 456      -1.236   3.327   8.110  0.00  0.00      PROC
+ATOM   5234  CZ  PHE C 456      -1.610   2.125   8.674  0.00  0.00      PROC
+ATOM   5236  CD2 PHE C 456      -0.036   2.495  10.482  0.00  0.00      PROC
+ATOM   5238  CE2 PHE C 456      -1.050   1.738   9.878  0.00  0.00      PROC
+ATOM   5240  C   PHE C 456       4.043   5.312  10.155  0.00  0.00      PROC
+ATOM   5241  O   PHE C 456       4.719   4.849  11.045  0.00  0.00      PROC
+ATOM      0  H   PHE C 456       3.885   2.780   9.584  0.00  0.00      PROC H   new
+ATOM      0  HA  PHE C 456       2.607   4.981   8.696  0.00  0.00      PROC H   new
+ATOM      0  HB2 PHE C 456       2.113   3.650  11.185  0.00  0.00      PROC H   new
+ATOM      0  HB3 PHE C 456       1.509   5.052  10.867  0.00  0.00      PROC H   new
+ATOM      0  HD1 PHE C 456       0.122   4.866   8.233  0.00  0.00      PROC H   new
+ATOM      0  HD2 PHE C 456       0.243   2.302  11.348  0.00  0.00      PROC H   new
+ATOM      0  HE1 PHE C 456      -1.709   3.657   7.381  0.00  0.00      PROC H   new
+ATOM      0  HE2 PHE C 456      -1.351   0.963  10.294  0.00  0.00      PROC H   new
+ATOM      0  HZ  PHE C 456      -2.232   1.580   8.249  0.00  0.00      PROC H   new
+ATOM   5242  N   ARG C 457       4.185   6.492   9.650  0.00  0.00      PROC
+ATOM   5244  CA  ARG C 457       5.110   7.430  10.198  0.00  0.00      PROC
+ATOM   5246  CB  ARG C 457       6.519   7.375   9.527  0.00  0.00      PROC
+ATOM   5249  CG  ARG C 457       7.657   7.614  10.506  0.00  0.00      PROC
+ATOM   5252  CD  ARG C 457       9.075   7.533   9.997  0.00  0.00      PROC
+ATOM   5255  NE  ARG C 457       9.986   7.717  11.150  0.00  0.00      PROC
+ATOM   5257  CZ  ARG C 457      10.481   8.885  11.595  0.00  0.00      PROC
+ATOM   5258  NH1 ARG C 457      10.274  10.053  11.041  0.00  0.00      PROC
+ATOM   5261  NH2 ARG C 457      11.028   8.788  12.819  0.00  0.00      PROC
+ATOM   5264  C   ARG C 457       4.615   8.921  10.100  0.00  0.00      PROC
+ATOM   5265  O   ARG C 457       4.122   9.397   9.034  0.00  0.00      PROC
+ATOM      0  H   ARG C 457       3.744   6.781   8.970  0.00  0.00      PROC H   new
+ATOM      0  HA  ARG C 457       5.174   7.160  11.127  0.00  0.00      PROC H   new
+ATOM      0  HB2 ARG C 457       6.638   6.509   9.107  0.00  0.00      PROC H   new
+ATOM      0  HB3 ARG C 457       6.561   8.040   8.822  0.00  0.00      PROC H   new
+ATOM      0  HG2 ARG C 457       7.533   8.495  10.893  0.00  0.00      PROC H   new
+ATOM      0  HG3 ARG C 457       7.565   6.972  11.227  0.00  0.00      PROC H   new
+ATOM      0  HD2 ARG C 457       9.234   6.676   9.572  0.00  0.00      PROC H   new
+ATOM      0  HD3 ARG C 457       9.234   8.216   9.327  0.00  0.00      PROC H   new
+ATOM      0  HE  ARG C 457      10.221   7.008  11.576  0.00  0.00      PROC H   new
+ATOM      0 HH11 ARG C 457       9.787  10.114  10.335  0.00  0.00      PROC H   new
+ATOM      0 HH12 ARG C 457      10.625  10.760  11.383  0.00  0.00      PROC H   new
+ATOM      0 HH21 ARG C 457      11.033   8.032  13.229  0.00  0.00      PROC H   new
+ATOM      0 HH22 ARG C 457      11.373   9.482  13.192  0.00  0.00      PROC H   new
+ATOM   5266  N   LYS C 458       4.787   9.731  11.133  0.00  0.00      PROC
+ATOM   5268  CA  LYS C 458       4.312  11.127  11.135  0.00  0.00      PROC
+ATOM   5270  CB  LYS C 458       3.840  11.557  12.534  0.00  0.00      PROC
+ATOM   5273  CG  LYS C 458       2.603  10.808  13.110  0.00  0.00      PROC
+ATOM   5276  CD  LYS C 458       1.913  11.365  14.362  0.00  0.00      PROC
+ATOM   5279  CE  LYS C 458       2.834  11.516  15.562  0.00  0.00      PROC
+ATOM   5282  NZ  LYS C 458       2.033  12.224  16.616  0.00  0.00      PROC
+ATOM   5286  C   LYS C 458       5.241  12.256  10.661  0.00  0.00      PROC
+ATOM   5287  O   LYS C 458       4.891  13.394  10.560  0.00  0.00      PROC
+ATOM      0  H   LYS C 458       5.182   9.496  11.860  0.00  0.00      PROC H   new
+ATOM      0  HA  LYS C 458       3.617  11.051  10.462  0.00  0.00      PROC H   new
+ATOM      0  HB2 LYS C 458       4.579  11.443  13.152  0.00  0.00      PROC H   new
+ATOM      0  HB3 LYS C 458       3.636  12.505  12.508  0.00  0.00      PROC H   new
+ATOM      0  HG2 LYS C 458       1.937  10.758  12.406  0.00  0.00      PROC H   new
+ATOM      0  HG3 LYS C 458       2.877   9.898  13.307  0.00  0.00      PROC H   new
+ATOM      0  HD2 LYS C 458       1.529  12.230  14.150  0.00  0.00      PROC H   new
+ATOM      0  HD3 LYS C 458       1.178  10.779  14.602  0.00  0.00      PROC H   new
+ATOM      0  HE2 LYS C 458       3.135  10.650  15.879  0.00  0.00      PROC H   new
+ATOM      0  HE3 LYS C 458       3.627  12.024  15.329  0.00  0.00      PROC H   new
+ATOM      0  HZ1 LYS C 458       2.533  12.336  17.344  0.00  0.00      PROC H   new
+ATOM      0  HZ2 LYS C 458       1.774  13.018  16.309  0.00  0.00      PROC H   new
+ATOM      0  HZ3 LYS C 458       1.316  11.738  16.821  0.00  0.00      PROC H   new
+ATOM   5288  N   SER C 459       6.437  11.838  10.287  0.00  0.00      PROC
+ATOM   5290  CA  SER C 459       7.306  12.710   9.549  0.00  0.00      PROC
+ATOM   5292  CB  SER C 459       8.185  13.579  10.509  0.00  0.00      PROC
+ATOM   5295  OG  SER C 459       9.068  14.548   9.795  0.00  0.00      PROC
+ATOM   5297  C   SER C 459       8.285  11.891   8.796  0.00  0.00      PROC
+ATOM   5298  O   SER C 459       8.416  10.703   9.020  0.00  0.00      PROC
+ATOM      0  H   SER C 459       6.757  11.057  10.452  0.00  0.00      PROC H   new
+ATOM      0  HA  SER C 459       6.743  13.262   8.984  0.00  0.00      PROC H   new
+ATOM      0  HB2 SER C 459       7.605  14.067  11.114  0.00  0.00      PROC H   new
+ATOM      0  HB3 SER C 459       8.734  12.993  11.053  0.00  0.00      PROC H   new
+ATOM      0  HG  SER C 459       9.514  14.987  10.356  0.00  0.00      PROC H   new
+ATOM   5299  N   ASN C 460       8.894  12.468   7.707  0.00  0.00      PROC
+ATOM   5301  CA  ASN C 460       9.625  11.777   6.613  0.00  0.00      PROC
+ATOM   5303  CB  ASN C 460       9.492  12.451   5.249  0.00  0.00      PROC
+ATOM   5306  CG  ASN C 460       8.075  12.390   4.676  0.00  0.00      PROC
+ATOM   5307  OD1 ASN C 460       7.146  11.895   5.291  0.00  0.00      PROC
+ATOM   5308  ND2 ASN C 460       7.972  12.847   3.414  0.00  0.00      PROC
+ATOM   5311  C   ASN C 460      11.081  11.691   7.073  0.00  0.00      PROC
+ATOM   5312  O   ASN C 460      11.637  12.669   7.503  0.00  0.00      PROC
+ATOM      0  H   ASN C 460       8.883  13.320   7.593  0.00  0.00      PROC H   new
+ATOM      0  HA  ASN C 460       9.240  10.899   6.465  0.00  0.00      PROC H   new
+ATOM      0  HB2 ASN C 460       9.762  13.379   5.327  0.00  0.00      PROC H   new
+ATOM      0  HB3 ASN C 460      10.104  12.029   4.626  0.00  0.00      PROC H   new
+ATOM      0 HD21 ASN C 460       7.220  12.798   2.999  0.00  0.00      PROC H   new
+ATOM      0 HD22 ASN C 460       8.658  13.188   3.023  0.00  0.00      PROC H   new
+ATOM   5313  N   LEU C 461      11.630  10.455   7.157  0.00  0.00      PROC
+ATOM   5315  CA  LEU C 461      13.074  10.226   7.470  0.00  0.00      PROC
+ATOM   5317  CB  LEU C 461      13.407   8.753   7.638  0.00  0.00      PROC
+ATOM   5320  CG  LEU C 461      12.903   8.185   8.994  0.00  0.00      PROC
+ATOM   5322  CD1 LEU C 461      12.877   6.594   9.018  0.00  0.00      PROC
+ATOM   5326  CD2 LEU C 461      13.812   8.578  10.166  0.00  0.00      PROC
+ATOM   5330  C   LEU C 461      14.084  10.803   6.442  0.00  0.00      PROC
+ATOM   5331  O   LEU C 461      13.957  10.715   5.229  0.00  0.00      PROC
+ATOM      0  H   LEU C 461      11.182   9.731   7.036  0.00  0.00      PROC H   new
+ATOM      0  HA  LEU C 461      13.179  10.712   8.303  0.00  0.00      PROC H   new
+ATOM      0  HB2 LEU C 461      13.010   8.249   6.911  0.00  0.00      PROC H   new
+ATOM      0  HB3 LEU C 461      14.367   8.632   7.576  0.00  0.00      PROC H   new
+ATOM      0  HG  LEU C 461      12.013   8.559   9.087  0.00  0.00      PROC H   new
+ATOM      0 HD11 LEU C 461      12.557   6.288   9.881  0.00  0.00      PROC H   new
+ATOM      0 HD12 LEU C 461      12.286   6.269   8.321  0.00  0.00      PROC H   new
+ATOM      0 HD13 LEU C 461      13.772   6.253   8.867  0.00  0.00      PROC H   new
+ATOM      0 HD21 LEU C 461      13.460   8.203  10.989  0.00  0.00      PROC H   new
+ATOM      0 HD22 LEU C 461      14.706   8.235  10.011  0.00  0.00      PROC H   new
+ATOM      0 HD23 LEU C 461      13.845   9.545  10.240  0.00  0.00      PROC H   new
+ATOM   5332  N   LYS C 462      15.176  11.424   6.950  0.00  0.00      PROC
+ATOM   5334  CA  LYS C 462      16.445  11.898   6.309  0.00  0.00      PROC
+ATOM   5336  CB  LYS C 462      17.176  12.778   7.370  0.00  0.00      PROC
+ATOM   5339  CG  LYS C 462      16.586  14.124   7.810  0.00  0.00      PROC
+ATOM   5342  CD  LYS C 462      16.678  15.220   6.709  0.00  0.00      PROC
+ATOM   5345  CE  LYS C 462      16.467  16.605   7.343  0.00  0.00      PROC
+ATOM   5348  NZ  LYS C 462      16.944  17.691   6.450  0.00  0.00      PROC
+ATOM   5352  C   LYS C 462      17.336  10.773   5.741  0.00  0.00      PROC
+ATOM   5353  O   LYS C 462      17.361   9.760   6.401  0.00  0.00      PROC
+ATOM      0  H   LYS C 462      15.195  11.602   7.791  0.00  0.00      PROC H   new
+ATOM      0  HA  LYS C 462      16.232  12.414   5.516  0.00  0.00      PROC H   new
+ATOM      0  HB2 LYS C 462      17.279  12.237   8.168  0.00  0.00      PROC H   new
+ATOM      0  HB3 LYS C 462      18.067  12.954   7.030  0.00  0.00      PROC H   new
+ATOM      0  HG2 LYS C 462      15.656  13.998   8.057  0.00  0.00      PROC H   new
+ATOM      0  HG3 LYS C 462      17.051  14.431   8.604  0.00  0.00      PROC H   new
+ATOM      0  HD2 LYS C 462      17.544  15.182   6.273  0.00  0.00      PROC H   new
+ATOM      0  HD3 LYS C 462      16.009  15.062   6.025  0.00  0.00      PROC H   new
+ATOM      0  HE2 LYS C 462      15.525  16.734   7.536  0.00  0.00      PROC H   new
+ATOM      0  HE3 LYS C 462      16.939  16.650   8.189  0.00  0.00      PROC H   new
+ATOM      0  HZ1 LYS C 462      16.809  18.479   6.842  0.00  0.00      PROC H   new
+ATOM      0  HZ2 LYS C 462      17.813  17.584   6.290  0.00  0.00      PROC H   new
+ATOM      0  HZ3 LYS C 462      16.496  17.662   5.682  0.00  0.00      PROC H   new
+ATOM   5388  N   GLU C 465      19.613   8.472   8.352  0.00  0.00      PROC
+ATOM   5390  CA  GLU C 465      18.715   8.262   9.500  0.00  0.00      PROC
+ATOM   5392  CB  GLU C 465      17.832   9.493   9.798  0.00  0.00      PROC
+ATOM   5395  CG  GLU C 465      18.766  10.626  10.299  0.00  0.00      PROC
+ATOM   5398  CD  GLU C 465      18.085  11.858  10.957  0.00  0.00      PROC
+ATOM   5399  OE1 GLU C 465      18.422  13.030  10.593  0.00  0.00      PROC
+ATOM   5400  OE2 GLU C 465      17.262  11.769  11.876  0.00  0.00      PROC
+ATOM   5401  C   GLU C 465      17.924   6.948   9.465  0.00  0.00      PROC
+ATOM   5402  O   GLU C 465      17.482   6.423   8.429  0.00  0.00      PROC
+ATOM      0  H   GLU C 465      19.240   8.975   7.763  0.00  0.00      PROC H   new
+ATOM      0  HA  GLU C 465      19.310   8.158  10.259  0.00  0.00      PROC H   new
+ATOM      0  HB2 GLU C 465      17.355   9.772   9.001  0.00  0.00      PROC H   new
+ATOM      0  HB3 GLU C 465      17.164   9.280  10.468  0.00  0.00      PROC H   new
+ATOM      0  HG2 GLU C 465      19.386  10.245  10.941  0.00  0.00      PROC H   new
+ATOM      0  HG3 GLU C 465      19.293  10.938   9.547  0.00  0.00      PROC H   new
+ATOM   5403  N   ARG C 466      17.796   6.333  10.682  0.00  0.00      PROC
+ATOM   5405  CA  ARG C 466      17.116   5.039  10.758  0.00  0.00      PROC
+ATOM   5407  CB  ARG C 466      18.013   3.741  11.012  0.00  0.00      PROC
+ATOM   5410  CG  ARG C 466      18.796   3.741  12.356  0.00  0.00      PROC
+ATOM   5413  CD  ARG C 466      19.602   2.362  12.602  0.00  0.00      PROC
+ATOM   5416  NE  ARG C 466      20.624   2.378  11.472  0.00  0.00      PROC
+ATOM   5418  CZ  ARG C 466      20.951   1.349  10.707  0.00  0.00      PROC
+ATOM   5419  NH1 ARG C 466      20.631   0.103  11.019  0.00  0.00      PROC
+ATOM   5422  NH2 ARG C 466      21.442   1.502   9.470  0.00  0.00      PROC
+ATOM   5425  C   ARG C 466      16.030   5.178  11.908  0.00  0.00      PROC
+ATOM   5426  O   ARG C 466      16.263   5.784  12.974  0.00  0.00      PROC
+ATOM      0  H   ARG C 466      18.086   6.645  11.429  0.00  0.00      PROC H   new
+ATOM      0  HA  ARG C 466      16.753   4.870   9.875  0.00  0.00      PROC H   new
+ATOM      0  HB2 ARG C 466      17.441   2.958  10.986  0.00  0.00      PROC H   new
+ATOM      0  HB3 ARG C 466      18.647   3.654  10.283  0.00  0.00      PROC H   new
+ATOM      0  HG2 ARG C 466      19.421   4.483  12.363  0.00  0.00      PROC H   new
+ATOM      0  HG3 ARG C 466      18.176   3.885  13.088  0.00  0.00      PROC H   new
+ATOM      0  HD2 ARG C 466      20.027   2.342  13.474  0.00  0.00      PROC H   new
+ATOM      0  HD3 ARG C 466      19.019   1.588  12.552  0.00  0.00      PROC H   new
+ATOM      0  HE  ARG C 466      21.025   3.123  11.317  0.00  0.00      PROC H   new
+ATOM      0 HH11 ARG C 466      20.195  -0.061  11.742  0.00  0.00      PROC H   new
+ATOM      0 HH12 ARG C 466      20.859  -0.543  10.499  0.00  0.00      PROC H   new
+ATOM      0 HH21 ARG C 466      21.555   2.291   9.147  0.00  0.00      PROC H   new
+ATOM      0 HH22 ARG C 466      21.644   0.811   8.999  0.00  0.00      PROC H   new
+ATOM   5427  N   ASP C 467      14.828   4.605  11.734  0.00  0.00      PROC
+ATOM   5429  CA  ASP C 467      13.840   4.604  12.807  0.00  0.00      PROC
+ATOM   5431  CB  ASP C 467      12.510   5.424  12.399  0.00  0.00      PROC
+ATOM   5434  CG  ASP C 467      11.461   5.469  13.547  0.00  0.00      PROC
+ATOM   5435  OD1 ASP C 467      11.674   5.031  14.717  0.00  0.00      PROC
+ATOM   5436  OD2 ASP C 467      10.443   6.150  13.327  0.00  0.00      PROC
+ATOM   5437  C   ASP C 467      13.549   3.206  13.248  0.00  0.00      PROC
+ATOM   5438  O   ASP C 467      12.855   2.417  12.530  0.00  0.00      PROC
+ATOM      0  H   ASP C 467      14.574   4.218  11.009  0.00  0.00      PROC H   new
+ATOM      0  HA  ASP C 467      14.215   5.073  13.569  0.00  0.00      PROC H   new
+ATOM      0  HB2 ASP C 467      12.755   6.330  12.153  0.00  0.00      PROC H   new
+ATOM      0  HB3 ASP C 467      12.110   5.016  11.615  0.00  0.00      PROC H   new
+ATOM   5439  N   ILE C 468      13.865   2.828  14.484  0.00  0.00      PROC
+ATOM   5441  CA  ILE C 468      13.913   1.449  14.985  0.00  0.00      PROC
+ATOM   5443  CB  ILE C 468      15.296   1.146  15.448  0.00  0.00      PROC
+ATOM   5445  CG2 ILE C 468      15.656   1.685  16.880  0.00  0.00      PROC
+ATOM   5449  CG1 ILE C 468      15.588  -0.397  15.322  0.00  0.00      PROC
+ATOM   5452  CD  ILE C 468      16.135  -0.782  13.962  0.00  0.00      PROC
+ATOM   5456  C   ILE C 468      12.767   1.227  16.044  0.00  0.00      PROC
+ATOM   5457  O   ILE C 468      12.529   0.132  16.630  0.00  0.00      PROC
+ATOM      0  H   ILE C 468      14.070   3.401  15.091  0.00  0.00      PROC H   new
+ATOM      0  HA  ILE C 468      13.729   0.801  14.287  0.00  0.00      PROC H   new
+ATOM      0  HB  ILE C 468      15.883   1.640  14.854  0.00  0.00      PROC H   new
+ATOM      0 HG21 ILE C 468      16.570   1.443  17.097  0.00  0.00      PROC H   new
+ATOM      0 HG22 ILE C 468      15.566   2.651  16.895  0.00  0.00      PROC H   new
+ATOM      0 HG23 ILE C 468      15.055   1.295  17.533  0.00  0.00      PROC H   new
+ATOM   5458  N   SER C 469      11.878   2.221  16.236  0.00  0.00      PROC
+ATOM   5460  CA  SER C 469      10.812   2.221  17.218  0.00  0.00      PROC
+ATOM   5462  CB  SER C 469       9.953   3.611  17.223  0.00  0.00      PROC
+ATOM   5465  OG  SER C 469       8.698   3.536  17.855  0.00  0.00      PROC
+ATOM   5467  C   SER C 469       9.794   1.169  16.881  0.00  0.00      PROC
+ATOM   5468  O   SER C 469       9.474   0.997  15.722  0.00  0.00      PROC
+ATOM      0  H   SER C 469      11.894   2.942  15.767  0.00  0.00      PROC H   new
+ATOM      0  HA  SER C 469      11.255   2.079  18.069  0.00  0.00      PROC H   new
+ATOM      0  HB2 SER C 469      10.479   4.298  17.661  0.00  0.00      PROC H   new
+ATOM      0  HB3 SER C 469       9.821   3.896  16.305  0.00  0.00      PROC H   new
+ATOM      0  HG  SER C 469       8.320   4.285  17.818  0.00  0.00      PROC H   new
+ATOM   5469  N   THR C 470       9.301   0.489  17.943  0.00  0.00      PROC
+ATOM   5471  CA  THR C 470       8.186  -0.470  17.762  0.00  0.00      PROC
+ATOM   5473  CB  THR C 470       8.604  -1.870  18.151  0.00  0.00      PROC
+ATOM   5475  OG1 THR C 470       9.328  -1.933  19.413  0.00  0.00      PROC
+ATOM   5477  CG2 THR C 470       9.455  -2.525  17.005  0.00  0.00      PROC
+ATOM   5481  C   THR C 470       6.994  -0.116  18.603  0.00  0.00      PROC
+ATOM   5482  O   THR C 470       6.052  -0.959  18.747  0.00  0.00      PROC
+ATOM      0  H   THR C 470       9.589   0.566  18.750  0.00  0.00      PROC H   new
+ATOM      0  HA  THR C 470       7.951  -0.427  16.822  0.00  0.00      PROC H   new
+ATOM      0  HB  THR C 470       7.784  -2.371  18.281  0.00  0.00      PROC H   new
+ATOM      0  HG1 THR C 470       9.533  -2.730  19.579  0.00  0.00      PROC H   new
+ATOM      0 HG21 THR C 470       9.716  -3.422  17.268  0.00  0.00      PROC H   new
+ATOM      0 HG22 THR C 470       8.926  -2.567  16.193  0.00  0.00      PROC H   new
+ATOM      0 HG23 THR C 470      10.249  -1.991  16.846  0.00  0.00      PROC H   new
+ATOM   5483  N   GLU C 471       7.031   1.023  19.285  0.00  0.00      PROC
+ATOM   5485  CA  GLU C 471       5.965   1.611  20.019  0.00  0.00      PROC
+ATOM   5487  CB  GLU C 471       6.264   2.955  20.746  0.00  0.00      PROC
+ATOM   5490  CG  GLU C 471       7.395   2.840  21.795  0.00  0.00      PROC
+ATOM   5493  CD  GLU C 471       7.613   4.251  22.326  0.00  0.00      PROC
+ATOM   5494  OE1 GLU C 471       8.783   4.766  22.177  0.00  0.00      PROC
+ATOM   5495  OE2 GLU C 471       6.696   4.816  23.050  0.00  0.00      PROC
+ATOM   5496  C   GLU C 471       4.647   1.661  19.342  0.00  0.00      PROC
+ATOM   5497  O   GLU C 471       4.524   1.977  18.156  0.00  0.00      PROC
+ATOM      0  H   GLU C 471       7.747   1.498  19.323  0.00  0.00      PROC H   new
+ATOM      0  HA  GLU C 471       5.892   0.943  20.718  0.00  0.00      PROC H   new
+ATOM      0  HB2 GLU C 471       6.508   3.625  20.088  0.00  0.00      PROC H   new
+ATOM      0  HB3 GLU C 471       5.456   3.267  21.183  0.00  0.00      PROC H   new
+ATOM      0  HG2 GLU C 471       7.146   2.234  22.510  0.00  0.00      PROC H   new
+ATOM      0  HG3 GLU C 471       8.206   2.489  21.395  0.00  0.00      PROC H   new
+ATOM   5498  N   ILE C 472       3.542   1.419  20.140  0.00  0.00      PROC
+ATOM   5500  CA  ILE C 472       2.163   1.335  19.556  0.00  0.00      PROC
+ATOM   5502  CB  ILE C 472       1.286   0.486  20.461  0.00  0.00      PROC
+ATOM   5504  CG2 ILE C 472      -0.191   0.341  19.940  0.00  0.00      PROC
+ATOM   5508  CG1 ILE C 472       1.751  -0.998  20.737  0.00  0.00      PROC
+ATOM   5511  CD  ILE C 472       2.085  -1.833  19.461  0.00  0.00      PROC
+ATOM   5515  C   ILE C 472       1.472   2.570  19.122  0.00  0.00      PROC
+ATOM   5516  O   ILE C 472       1.223   3.462  19.871  0.00  0.00      PROC
+ATOM      0  H   ILE C 472       3.577   1.306  20.992  0.00  0.00      PROC H   new
+ATOM      0  HA  ILE C 472       2.319   0.921  18.693  0.00  0.00      PROC H   new
+ATOM      0  HB  ILE C 472       1.359   1.001  21.280  0.00  0.00      PROC H   new
+ATOM      0 HG21 ILE C 472      -0.699  -0.209  20.557  0.00  0.00      PROC H   new
+ATOM      0 HG22 ILE C 472      -0.600   1.218  19.877  0.00  0.00      PROC H   new
+ATOM      0 HG23 ILE C 472      -0.186  -0.076  19.064  0.00  0.00      PROC H   new
+ATOM   5517  N   TYR C 473       1.247   2.730  17.784  0.00  0.00      PROC
+ATOM   5519  CA  TYR C 473       0.889   3.889  17.068  0.00  0.00      PROC
+ATOM   5521  CB  TYR C 473       1.370   3.696  15.578  0.00  0.00      PROC
+ATOM   5524  CG  TYR C 473       1.264   4.869  14.713  0.00  0.00      PROC
+ATOM   5525  CD1 TYR C 473       2.420   5.623  14.427  0.00  0.00      PROC
+ATOM   5527  CE1 TYR C 473       2.260   6.720  13.543  0.00  0.00      PROC
+ATOM   5529  CZ  TYR C 473       1.049   7.020  12.913  0.00  0.00      PROC
+ATOM   5530  OH  TYR C 473       1.057   8.084  12.011  0.00  0.00      PROC
+ATOM   5532  CD2 TYR C 473       0.019   5.148  14.060  0.00  0.00      PROC
+ATOM   5534  CE2 TYR C 473      -0.064   6.244  13.186  0.00  0.00      PROC
+ATOM   5536  C   TYR C 473      -0.578   4.277  17.210  0.00  0.00      PROC
+ATOM   5537  O   TYR C 473      -1.396   3.441  16.910  0.00  0.00      PROC
+ATOM      0  H   TYR C 473       1.321   2.057  17.254  0.00  0.00      PROC H   new
+ATOM      0  HA  TYR C 473       1.339   4.659  17.450  0.00  0.00      PROC H   new
+ATOM      0  HB2 TYR C 473       2.296   3.408  15.591  0.00  0.00      PROC H   new
+ATOM      0  HB3 TYR C 473       0.855   2.976  15.181  0.00  0.00      PROC H   new
+ATOM      0  HD1 TYR C 473       3.246   5.412  14.799  0.00  0.00      PROC H   new
+ATOM      0  HD2 TYR C 473      -0.724   4.610  14.213  0.00  0.00      PROC H   new
+ATOM      0  HE1 TYR C 473       2.995   7.265  13.375  0.00  0.00      PROC H   new
+ATOM      0  HE2 TYR C 473      -0.877   6.451  12.785  0.00  0.00      PROC H   new
+ATOM      0  HH  TYR C 473       0.288   8.183  11.687  0.00  0.00      PROC H   new
+ATOM   5538  N   GLN C 474      -0.839   5.473  17.791  0.00  0.00      PROC
+ATOM   5540  CA  GLN C 474      -2.222   5.938  17.945  0.00  0.00      PROC
+ATOM   5542  CB  GLN C 474      -2.309   6.811  19.196  0.00  0.00      PROC
+ATOM   5545  CG  GLN C 474      -1.156   7.884  19.225  0.00  0.00      PROC
+ATOM   5548  CD  GLN C 474      -1.403   8.952  20.395  0.00  0.00      PROC
+ATOM   5549  OE1 GLN C 474      -0.571   9.030  21.341  0.00  0.00      PROC
+ATOM   5550  NE2 GLN C 474      -2.602   9.546  20.373  0.00  0.00      PROC
+ATOM   5553  C   GLN C 474      -2.887   6.589  16.675  0.00  0.00      PROC
+ATOM   5554  O   GLN C 474      -2.209   7.245  15.869  0.00  0.00      PROC
+ATOM      0  H   GLN C 474      -0.239   6.011  18.092  0.00  0.00      PROC H   new
+ATOM      0  HA  GLN C 474      -2.771   5.146  18.055  0.00  0.00      PROC H   new
+ATOM      0  HB2 GLN C 474      -3.170   7.257  19.223  0.00  0.00      PROC H   new
+ATOM      0  HB3 GLN C 474      -2.254   6.253  19.987  0.00  0.00      PROC H   new
+ATOM      0  HG2 GLN C 474      -0.302   7.444  19.358  0.00  0.00      PROC H   new
+ATOM      0  HG3 GLN C 474      -1.110   8.339  18.370  0.00  0.00      PROC H   new
+ATOM      0 HE21 GLN C 474      -3.118   9.448  19.692  0.00  0.00      PROC H   new
+ATOM      0 HE22 GLN C 474      -2.856  10.026  21.040  0.00  0.00      PROC H   new
+ATOM   5555  N   ALA C 475      -4.198   6.310  16.594  0.00  0.00      PROC
+ATOM   5557  CA  ALA C 475      -5.025   6.953  15.540  0.00  0.00      PROC
+ATOM   5559  CB  ALA C 475      -5.424   5.802  14.650  0.00  0.00      PROC
+ATOM   5563  C   ALA C 475      -6.227   7.595  16.087  0.00  0.00      PROC
+ATOM   5564  O   ALA C 475      -6.969   8.404  15.443  0.00  0.00      PROC
+ATOM      0  H   ALA C 475      -4.620   5.773  17.116  0.00  0.00      PROC H   new
+ATOM      0  HA  ALA C 475      -4.537   7.656  15.084  0.00  0.00      PROC H   new
+ATOM      0  HB1 ALA C 475      -5.975   6.131  13.922  0.00  0.00      PROC H   new
+ATOM      0  HB2 ALA C 475      -4.628   5.382  14.288  0.00  0.00      PROC H   new
+ATOM      0  HB3 ALA C 475      -5.926   5.152  15.166  0.00  0.00      PROC H   new
+ATOM   5565  N   GLY C 476      -6.391   7.528  17.416  0.00  0.00      PROC
+ATOM   5567  CA  GLY C 476      -7.201   8.392  18.219  0.00  0.00      PROC
+ATOM   5570  C   GLY C 476      -6.370   9.240  19.049  0.00  0.00      PROC
+ATOM   5571  O   GLY C 476      -5.145   9.180  19.058  0.00  0.00      PROC
+ATOM      0  H   GLY C 476      -5.995   6.927  17.887  0.00  0.00      PROC H   new
+ATOM      0  HA2 GLY C 476      -7.763   8.939  17.649  0.00  0.00      PROC H   new
+ATOM      0  HA3 GLY C 476      -7.792   7.863  18.777  0.00  0.00      PROC H   new
+ATOM   5572  N   SER C 477      -7.030  10.035  19.864  0.00  0.00      PROC
+ATOM   5574  CA  SER C 477      -6.256  11.097  20.606  0.00  0.00      PROC
+ATOM   5576  CB  SER C 477      -7.103  12.335  20.812  0.00  0.00      PROC
+ATOM   5579  OG  SER C 477      -8.297  12.026  21.582  0.00  0.00      PROC
+ATOM   5581  C   SER C 477      -5.691  10.653  21.967  0.00  0.00      PROC
+ATOM   5582  O   SER C 477      -4.893  11.361  22.590  0.00  0.00      PROC
+ATOM      0  H   SER C 477      -7.876  10.007  20.017  0.00  0.00      PROC H   new
+ATOM      0  HA  SER C 477      -5.495  11.285  20.035  0.00  0.00      PROC H   new
+ATOM      0  HB2 SER C 477      -6.584  13.013  21.272  0.00  0.00      PROC H   new
+ATOM      0  HB3 SER C 477      -7.355  12.705  19.952  0.00  0.00      PROC H   new
+ATOM      0  HG  SER C 477      -8.752  12.724  21.687  0.00  0.00      PROC H   new
+ATOM   5583  N   THR C 478      -6.062   9.413  22.450  0.00  0.00      PROC
+ATOM   5585  CA  THR C 478      -5.481   8.875  23.693  0.00  0.00      PROC
+ATOM   5587  CB  THR C 478      -6.512   8.011  24.475  0.00  0.00      PROC
+ATOM   5589  OG1 THR C 478      -7.726   8.714  24.600  0.00  0.00      PROC
+ATOM   5591  CG2 THR C 478      -6.021   7.704  25.937  0.00  0.00      PROC
+ATOM   5595  C   THR C 478      -4.233   8.016  23.409  0.00  0.00      PROC
+ATOM   5596  O   THR C 478      -4.438   7.007  22.663  0.00  0.00      PROC
+ATOM      0  H   THR C 478      -6.635   8.897  22.069  0.00  0.00      PROC H   new
+ATOM      0  HA  THR C 478      -5.228   9.641  24.231  0.00  0.00      PROC H   new
+ATOM      0  HB  THR C 478      -6.621   7.185  23.979  0.00  0.00      PROC H   new
+ATOM      0  HG1 THR C 478      -8.280   8.244  25.021  0.00  0.00      PROC H   new
+ATOM      0 HG21 THR C 478      -6.685   7.165  26.395  0.00  0.00      PROC H   new
+ATOM      0 HG22 THR C 478      -5.181   7.220  25.902  0.00  0.00      PROC H   new
+ATOM      0 HG23 THR C 478      -5.894   8.537  26.417  0.00  0.00      PROC H   new
+ATOM   5597  N   PRO C 479      -3.018   8.235  23.947  0.00  0.00      PROC
+ATOM   5598  CD  PRO C 479      -2.643   9.491  24.659  0.00  0.00      PROC
+ATOM   5601  CA  PRO C 479      -2.043   7.273  23.869  0.00  0.00      PROC
+ATOM   5603  CB  PRO C 479      -0.841   7.835  24.816  0.00  0.00      PROC
+ATOM   5606  CG  PRO C 479      -1.128   9.410  24.765  0.00  0.00      PROC
+ATOM   5609  C   PRO C 479      -2.393   5.779  24.134  0.00  0.00      PROC
+ATOM   5610  O   PRO C 479      -2.954   5.588  25.190  0.00  0.00      PROC
+ATOM      0  HA  PRO C 479      -1.813   7.173  22.932  0.00  0.00      PROC H   new
+ATOM      0  HB2 PRO C 479      -0.888   7.482  25.718  0.00  0.00      PROC H   new
+ATOM      0  HB3 PRO C 479       0.036   7.610  24.469  0.00  0.00      PROC H   new
+ATOM      0  HG2 PRO C 479      -0.801   9.859  25.560  0.00  0.00      PROC H   new
+ATOM      0  HG3 PRO C 479      -0.694   9.828  24.005  0.00  0.00      PROC H   new
+ATOM      0  HD2 PRO C 479      -3.059   9.542  25.534  0.00  0.00      PROC H   new
+ATOM      0  HD3 PRO C 479      -2.924  10.277  24.165  0.00  0.00      PROC H   new
+ATOM   5611  N   CYS C 480      -1.800   4.822  23.398  0.00  0.00      PROC
+ATOM   5613  CA  CYS C 480      -2.046   3.391  23.529  0.00  0.00      PROC
+ATOM   5615  CB  CYS C 480      -1.607   2.743  22.196  0.00  0.00      PROC
+ATOM   5618  SG  CYS C 480      -2.508   3.394  20.703  0.00  0.00      PROC
+ATOM   5619  C   CYS C 480      -1.239   2.798  24.625  0.00  0.00      PROC
+ATOM   5620  O   CYS C 480      -1.701   1.725  25.157  0.00  0.00      PROC
+ATOM      0  H   CYS C 480      -1.223   5.006  22.788  0.00  0.00      PROC H   new
+ATOM      0  HA  CYS C 480      -2.982   3.238  23.730  0.00  0.00      PROC H   new
+ATOM      0  HB2 CYS C 480      -0.655   2.886  22.076  0.00  0.00      PROC H   new
+ATOM      0  HB3 CYS C 480      -1.745   1.784  22.253  0.00  0.00      PROC H   new
+ATOM   5621  N   ASN C 481      -0.141   3.362  25.065  0.00  0.00      PROC
+ATOM   5623  CA  ASN C 481       0.743   2.879  26.137  0.00  0.00      PROC
+ATOM   5625  CB  ASN C 481       0.171   3.202  27.549  0.00  0.00      PROC
+ATOM   5628  CG  ASN C 481      -0.131   4.707  27.818  0.00  0.00      PROC
+ATOM   5629  OD1 ASN C 481      -1.022   5.075  28.598  0.00  0.00      PROC
+ATOM   5630  ND2 ASN C 481       0.564   5.623  27.069  0.00  0.00      PROC
+ATOM   5633  C   ASN C 481       1.081   1.398  26.043  0.00  0.00      PROC
+ATOM   5634  O   ASN C 481       1.125   0.615  27.011  0.00  0.00      PROC
+ATOM      0  H   ASN C 481       0.144   4.099  24.727  0.00  0.00      PROC H   new
+ATOM      0  HA  ASN C 481       1.572   3.365  26.008  0.00  0.00      PROC H   new
+ATOM      0  HB2 ASN C 481      -0.647   2.696  27.674  0.00  0.00      PROC H   new
+ATOM      0  HB3 ASN C 481       0.802   2.890  28.216  0.00  0.00      PROC H   new
+ATOM      0 HD21 ASN C 481       0.383   6.461  27.138  0.00  0.00      PROC H   new
+ATOM      0 HD22 ASN C 481       1.180   5.359  26.530  0.00  0.00      PROC H   new
+ATOM   5635  N   GLY C 482       1.317   1.013  24.743  0.00  0.00      PROC
+ATOM   5637  CA  GLY C 482       1.798  -0.342  24.435  0.00  0.00      PROC
+ATOM   5640  C   GLY C 482       0.696  -1.432  24.355  0.00  0.00      PROC
+ATOM   5641  O   GLY C 482       0.944  -2.615  24.508  0.00  0.00      PROC
+ATOM      0  H   GLY C 482       1.203   1.520  24.058  0.00  0.00      PROC H   new
+ATOM      0  HA2 GLY C 482       2.270  -0.317  23.588  0.00  0.00      PROC H   new
+ATOM      0  HA3 GLY C 482       2.442  -0.603  25.112  0.00  0.00      PROC H   new
+ATOM   5642  N   VAL C 483      -0.574  -1.045  24.038  0.00  0.00      PROC
+ATOM   5644  CA  VAL C 483      -1.708  -2.074  23.935  0.00  0.00      PROC
+ATOM   5646  CB  VAL C 483      -2.797  -1.920  24.998  0.00  0.00      PROC
+ATOM   5648  CG1 VAL C 483      -3.915  -2.948  24.913  0.00  0.00      PROC
+ATOM   5652  CG2 VAL C 483      -2.039  -2.364  26.270  0.00  0.00      PROC
+ATOM   5656  C   VAL C 483      -2.428  -1.882  22.610  0.00  0.00      PROC
+ATOM   5657  O   VAL C 483      -3.022  -0.886  22.263  0.00  0.00      PROC
+ATOM      0  H   VAL C 483      -0.809  -0.233  23.882  0.00  0.00      PROC H   new
+ATOM      0  HA  VAL C 483      -1.278  -2.937  24.040  0.00  0.00      PROC H   new
+ATOM      0  HB  VAL C 483      -3.186  -1.034  24.938  0.00  0.00      PROC H   new
+ATOM      0 HG11 VAL C 483      -4.561  -2.783  25.617  0.00  0.00      PROC H   new
+ATOM      0 HG12 VAL C 483      -4.353  -2.879  24.050  0.00  0.00      PROC H   new
+ATOM      0 HG13 VAL C 483      -3.545  -3.838  25.017  0.00  0.00      PROC H   new
+ATOM      0 HG21 VAL C 483      -2.632  -2.311  27.036  0.00  0.00      PROC H   new
+ATOM      0 HG22 VAL C 483      -1.732  -3.278  26.162  0.00  0.00      PROC H   new
+ATOM      0 HG23 VAL C 483      -1.276  -1.782  26.412  0.00  0.00      PROC H   new
+ATOM   5658  N   GLU C 484      -2.247  -2.868  21.759  0.00  0.00      PROC
+ATOM   5660  CA  GLU C 484      -2.994  -3.033  20.518  0.00  0.00      PROC
+ATOM   5662  CB  GLU C 484      -2.371  -4.262  19.714  0.00  0.00      PROC
+ATOM   5665  CG  GLU C 484      -0.895  -4.037  19.273  0.00  0.00      PROC
+ATOM   5668  CD  GLU C 484      -0.193  -5.175  18.670  0.00  0.00      PROC
+ATOM   5669  OE1 GLU C 484      -0.620  -5.658  17.616  0.00  0.00      PROC
+ATOM   5670  OE2 GLU C 484       0.864  -5.534  19.192  0.00  0.00      PROC
+ATOM   5671  C   GLU C 484      -4.499  -3.228  20.687  0.00  0.00      PROC
+ATOM   5672  O   GLU C 484      -4.994  -3.815  21.712  0.00  0.00      PROC
+ATOM      0  H   GLU C 484      -1.664  -3.488  21.887  0.00  0.00      PROC H   new
+ATOM      0  HA  GLU C 484      -2.906  -2.199  20.031  0.00  0.00      PROC H   new
+ATOM      0  HB2 GLU C 484      -2.417  -5.057  20.268  0.00  0.00      PROC H   new
+ATOM      0  HB3 GLU C 484      -2.913  -4.432  18.928  0.00  0.00      PROC H   new
+ATOM      0  HG2 GLU C 484      -0.880  -3.304  18.638  0.00  0.00      PROC H   new
+ATOM      0  HG3 GLU C 484      -0.390  -3.750  20.050  0.00  0.00      PROC H   new
+ATOM   5673  N   GLY C 485      -5.353  -2.710  19.755  0.00  0.00      PROC
+ATOM   5675  CA  GLY C 485      -6.721  -2.653  19.948  0.00  0.00      PROC
+ATOM   5678  C   GLY C 485      -7.250  -1.432  19.210  0.00  0.00      PROC
+ATOM   5679  O   GLY C 485      -6.856  -1.075  18.108  0.00  0.00      PROC
+ATOM      0  H   GLY C 485      -5.093  -2.391  19.000  0.00  0.00      PROC H   new
+ATOM      0  HA2 GLY C 485      -7.144  -3.460  19.615  0.00  0.00      PROC H   new
+ATOM      0  HA3 GLY C 485      -6.928  -2.593  20.894  0.00  0.00      PROC H   new
+ATOM   5680  N   PHE C 486      -8.258  -0.809  19.798  0.00  0.00      PROC
+ATOM   5682  CA  PHE C 486      -9.096   0.286  19.227  0.00  0.00      PROC
+ATOM   5684  CB  PHE C 486     -10.284   0.484  20.083  0.00  0.00      PROC
+ATOM   5687  CG  PHE C 486     -11.332   1.418  19.475  0.00  0.00      PROC
+ATOM   5688  CD1 PHE C 486     -11.778   2.669  20.059  0.00  0.00      PROC
+ATOM   5690  CE1 PHE C 486     -12.741   3.407  19.463  0.00  0.00      PROC
+ATOM   5692  CZ  PHE C 486     -13.305   3.062  18.239  0.00  0.00      PROC
+ATOM   5694  CD2 PHE C 486     -12.005   1.076  18.361  0.00  0.00      PROC
+ATOM   5696  CE2 PHE C 486     -12.897   1.896  17.648  0.00  0.00      PROC
+ATOM   5698  C   PHE C 486      -8.297   1.521  18.979  0.00  0.00      PROC
+ATOM   5699  O   PHE C 486      -7.822   2.142  19.924  0.00  0.00      PROC
+ATOM      0  H   PHE C 486      -8.503  -1.015  20.596  0.00  0.00      PROC H   new
+ATOM      0  HA  PHE C 486      -9.420   0.034  18.348  0.00  0.00      PROC H   new
+ATOM      0  HB2 PHE C 486     -10.693  -0.378  20.259  0.00  0.00      PROC H   new
+ATOM      0  HB3 PHE C 486     -10.000   0.843  20.938  0.00  0.00      PROC H   new
+ATOM      0  HD1 PHE C 486     -11.397   2.967  20.853  0.00  0.00      PROC H   new
+ATOM      0  HD2 PHE C 486     -11.867   0.217  18.032  0.00  0.00      PROC H   new
+ATOM      0  HE1 PHE C 486     -13.039   4.178  19.889  0.00  0.00      PROC H   new
+ATOM      0  HE2 PHE C 486     -13.200   1.654  16.803  0.00  0.00      PROC H   new
+ATOM      0  HZ  PHE C 486     -13.940   3.607  17.834  0.00  0.00      PROC H   new
+ATOM   5700  N   ASN C 487      -7.994   1.825  17.639  0.00  0.00      PROC
+ATOM   5702  CA  ASN C 487      -7.254   2.944  17.166  0.00  0.00      PROC
+ATOM   5704  CB  ASN C 487      -8.023   4.310  17.220  0.00  0.00      PROC
+ATOM   5707  CG  ASN C 487      -9.194   4.193  16.270  0.00  0.00      PROC
+ATOM   5708  OD1 ASN C 487      -8.948   4.091  15.012  0.00  0.00      PROC
+ATOM   5709  ND2 ASN C 487     -10.389   4.033  16.811  0.00  0.00      PROC
+ATOM   5712  C   ASN C 487      -5.838   2.952  17.696  0.00  0.00      PROC
+ATOM   5713  O   ASN C 487      -5.302   4.026  17.904  0.00  0.00      PROC
+ATOM      0  H   ASN C 487      -8.257   1.318  16.996  0.00  0.00      PROC H   new
+ATOM      0  HA  ASN C 487      -7.155   2.825  16.208  0.00  0.00      PROC H   new
+ATOM      0  HB2 ASN C 487      -8.329   4.497  18.121  0.00  0.00      PROC H   new
+ATOM      0  HB3 ASN C 487      -7.442   5.042  16.961  0.00  0.00      PROC H   new
+ATOM      0 HD21 ASN C 487     -11.065   3.848  16.313  0.00  0.00      PROC H   new
+ATOM      0 HD22 ASN C 487     -10.490   4.114  17.661  0.00  0.00      PROC H   new
+ATOM   5714  N   CYS C 488      -5.293   1.714  17.837  0.00  0.00      PROC
+ATOM   5716  CA  CYS C 488      -3.926   1.468  18.224  0.00  0.00      PROC
+ATOM   5718  CB  CYS C 488      -3.857   1.010  19.688  0.00  0.00      PROC
+ATOM   5721  SG  CYS C 488      -4.204   2.332  20.794  0.00  0.00      PROC
+ATOM   5722  C   CYS C 488      -3.391   0.362  17.296  0.00  0.00      PROC
+ATOM   5723  O   CYS C 488      -3.866  -0.785  17.273  0.00  0.00      PROC
+ATOM      0  H   CYS C 488      -5.741   0.993  17.701  0.00  0.00      PROC H   new
+ATOM      0  HA  CYS C 488      -3.395   2.276  18.145  0.00  0.00      PROC H   new
+ATOM      0  HB2 CYS C 488      -4.491   0.290  19.833  0.00  0.00      PROC H   new
+ATOM      0  HB3 CYS C 488      -2.975   0.653  19.875  0.00  0.00      PROC H   new
+ATOM   5724  N   TYR C 489      -2.281   0.715  16.599  0.00  0.00      PROC
+ATOM   5726  CA  TYR C 489      -1.786  -0.120  15.503  0.00  0.00      PROC
+ATOM   5728  CB  TYR C 489      -2.103   0.538  14.126  0.00  0.00      PROC
+ATOM   5731  CG  TYR C 489      -3.583   0.758  14.008  0.00  0.00      PROC
+ATOM   5732  CD1 TYR C 489      -4.286  -0.451  13.958  0.00  0.00      PROC
+ATOM   5734  CE1 TYR C 489      -5.660  -0.500  13.983  0.00  0.00      PROC
+ATOM   5736  CZ  TYR C 489      -6.376   0.718  14.036  0.00  0.00      PROC
+ATOM   5737  OH  TYR C 489      -7.817   0.839  14.119  0.00  0.00      PROC
+ATOM   5739  CD2 TYR C 489      -4.309   1.978  13.966  0.00  0.00      PROC
+ATOM   5741  CE2 TYR C 489      -5.673   1.983  13.968  0.00  0.00      PROC
+ATOM   5743  C   TYR C 489      -0.327  -0.343  15.657  0.00  0.00      PROC
+ATOM   5744  O   TYR C 489       0.356   0.456  16.324  0.00  0.00      PROC
+ATOM      0  H   TYR C 489      -1.817   1.423  16.751  0.00  0.00      PROC H   new
+ATOM      0  HA  TYR C 489      -2.236  -0.979  15.535  0.00  0.00      PROC H   new
+ATOM      0  HB2 TYR C 489      -1.633   1.382  14.044  0.00  0.00      PROC H   new
+ATOM      0  HB3 TYR C 489      -1.792  -0.031  13.405  0.00  0.00      PROC H   new
+ATOM      0  HD1 TYR C 489      -3.808  -1.247  13.906  0.00  0.00      PROC H   new
+ATOM      0  HD2 TYR C 489      -3.848   2.785  13.937  0.00  0.00      PROC H   new
+ATOM      0  HE1 TYR C 489      -6.108  -1.315  13.965  0.00  0.00      PROC H   new
+ATOM      0  HE2 TYR C 489      -6.143   2.784  13.926  0.00  0.00      PROC H   new
+ATOM      0  HH  TYR C 489      -8.029   1.651  14.140  0.00  0.00      PROC H   new
+ATOM   5745  N   PHE C 490       0.252  -1.438  15.121  0.00  0.00      PROC
+ATOM   5747  CA  PHE C 490       1.702  -1.652  15.194  0.00  0.00      PROC
+ATOM   5749  CB  PHE C 490       1.976  -3.166  15.324  0.00  0.00      PROC
+ATOM   5752  CG  PHE C 490       3.493  -3.613  15.289  0.00  0.00      PROC
+ATOM   5753  CD1 PHE C 490       3.913  -4.398  14.238  0.00  0.00      PROC
+ATOM   5755  CE1 PHE C 490       5.225  -4.938  14.268  0.00  0.00      PROC
+ATOM   5757  CZ  PHE C 490       5.999  -4.835  15.429  0.00  0.00      PROC
+ATOM   5759  CD2 PHE C 490       4.322  -3.441  16.446  0.00  0.00      PROC
+ATOM   5761  CE2 PHE C 490       5.579  -4.037  16.475  0.00  0.00      PROC
+ATOM   5763  C   PHE C 490       2.399  -0.901  14.037  0.00  0.00      PROC
+ATOM   5764  O   PHE C 490       2.013  -1.114  12.854  0.00  0.00      PROC
+ATOM      0  H   PHE C 490      -0.180  -2.061  14.715  0.00  0.00      PROC H   new
+ATOM      0  HA  PHE C 490       2.102  -1.264  15.988  0.00  0.00      PROC H   new
+ATOM      0  HB2 PHE C 490       1.587  -3.475  16.158  0.00  0.00      PROC H   new
+ATOM      0  HB3 PHE C 490       1.508  -3.622  14.607  0.00  0.00      PROC H   new
+ATOM      0  HD1 PHE C 490       3.347  -4.571  13.521  0.00  0.00      PROC H   new
+ATOM      0  HD2 PHE C 490       4.023  -2.937  17.168  0.00  0.00      PROC H   new
+ATOM      0  HE1 PHE C 490       5.571  -5.361  13.515  0.00  0.00      PROC H   new
+ATOM      0  HE2 PHE C 490       6.140  -3.897  17.203  0.00  0.00      PROC H   new
+ATOM      0  HZ  PHE C 490       6.799  -5.305  15.497  0.00  0.00      PROC H   new
+ATOM   5765  N   PRO C 491       3.432  -0.055  14.182  0.00  0.00      PROC
+ATOM   5766  CD  PRO C 491       4.048   0.371  15.369  0.00  0.00      PROC
+ATOM   5769  CA  PRO C 491       3.765   0.785  13.025  0.00  0.00      PROC
+ATOM   5771  CB  PRO C 491       4.519   1.916  13.685  0.00  0.00      PROC
+ATOM   5774  CG  PRO C 491       5.217   1.282  14.856  0.00  0.00      PROC
+ATOM   5777  C   PRO C 491       4.625   0.102  11.940  0.00  0.00      PROC
+ATOM   5778  O   PRO C 491       4.934   0.755  10.940  0.00  0.00      PROC
+ATOM      0  HA  PRO C 491       2.973   1.039  12.526  0.00  0.00      PROC H   new
+ATOM      0  HB2 PRO C 491       5.154   2.320  13.073  0.00  0.00      PROC H   new
+ATOM      0  HB3 PRO C 491       3.917   2.620  13.973  0.00  0.00      PROC H   new
+ATOM      0  HG2 PRO C 491       6.002   0.775  14.595  0.00  0.00      PROC H   new
+ATOM      0  HG3 PRO C 491       5.505   1.931  15.517  0.00  0.00      PROC H   new
+ATOM      0  HD2 PRO C 491       4.379  -0.377  15.890  0.00  0.00      PROC H   new
+ATOM      0  HD3 PRO C 491       3.433   0.862  15.936  0.00  0.00      PROC H   new
+ATOM   5779  N   LEU C 492       4.919  -1.219  12.129  0.00  0.00      PROC
+ATOM   5781  CA  LEU C 492       5.692  -1.982  11.214  0.00  0.00      PROC
+ATOM   5783  CB  LEU C 492       6.775  -2.935  11.868  0.00  0.00      PROC
+ATOM   5786  CG  LEU C 492       7.734  -2.145  12.779  0.00  0.00      PROC
+ATOM   5788  CD1 LEU C 492       8.958  -3.035  13.030  0.00  0.00      PROC
+ATOM   5792  CD2 LEU C 492       8.122  -0.815  12.180  0.00  0.00      PROC
+ATOM   5796  C   LEU C 492       4.646  -2.833  10.580  0.00  0.00      PROC
+ATOM   5797  O   LEU C 492       3.563  -3.090  11.131  0.00  0.00      PROC
+ATOM      0  H   LEU C 492       4.653  -1.667  12.814  0.00  0.00      PROC H   new
+ATOM      0  HA  LEU C 492       6.208  -1.399  10.635  0.00  0.00      PROC H   new
+ATOM      0  HB2 LEU C 492       6.332  -3.627  12.383  0.00  0.00      PROC H   new
+ATOM      0  HB3 LEU C 492       7.281  -3.381  11.171  0.00  0.00      PROC H   new
+ATOM      0  HG  LEU C 492       7.295  -1.930  13.617  0.00  0.00      PROC H   new
+ATOM      0 HD11 LEU C 492       9.586  -2.568  13.603  0.00  0.00      PROC H   new
+ATOM      0 HD12 LEU C 492       8.677  -3.857  13.462  0.00  0.00      PROC H   new
+ATOM      0 HD13 LEU C 492       9.385  -3.244  12.185  0.00  0.00      PROC H   new
+ATOM      0 HD21 LEU C 492       8.724  -0.352  12.783  0.00  0.00      PROC H   new
+ATOM      0 HD22 LEU C 492       8.565  -0.960  11.329  0.00  0.00      PROC H   new
+ATOM      0 HD23 LEU C 492       7.326  -0.278  12.042  0.00  0.00      PROC H   new
+ATOM   5798  N   GLN C 493       5.007  -3.426   9.453  0.00  0.00      PROC
+ATOM   5800  CA  GLN C 493       4.228  -4.440   8.763  0.00  0.00      PROC
+ATOM   5802  CB  GLN C 493       3.378  -3.786   7.526  0.00  0.00      PROC
+ATOM   5805  CG  GLN C 493       2.411  -4.718   6.741  0.00  0.00      PROC
+ATOM   5808  CD  GLN C 493       1.517  -5.494   7.639  0.00  0.00      PROC
+ATOM   5809  OE1 GLN C 493       0.695  -4.918   8.344  0.00  0.00      PROC
+ATOM   5810  NE2 GLN C 493       1.522  -6.844   7.584  0.00  0.00      PROC
+ATOM   5813  C   GLN C 493       5.085  -5.537   8.293  0.00  0.00      PROC
+ATOM   5814  O   GLN C 493       6.091  -5.278   7.605  0.00  0.00      PROC
+ATOM      0  H   GLN C 493       5.745  -3.240   9.052  0.00  0.00      PROC H   new
+ATOM      0  HA  GLN C 493       3.594  -4.810   9.397  0.00  0.00      PROC H   new
+ATOM      0  HB2 GLN C 493       2.859  -3.046   7.879  0.00  0.00      PROC H   new
+ATOM      0  HB3 GLN C 493       4.011  -3.412   6.893  0.00  0.00      PROC H   new
+ATOM      0  HG2 GLN C 493       1.873  -4.185   6.135  0.00  0.00      PROC H   new
+ATOM      0  HG3 GLN C 493       2.928  -5.331   6.196  0.00  0.00      PROC H   new
+ATOM      0 HE21 GLN C 493       2.096  -7.252   7.091  0.00  0.00      PROC H   new
+ATOM      0 HE22 GLN C 493       0.951  -7.295   8.042  0.00  0.00      PROC H   new
+ATOM   5815  N   SER C 494       4.810  -6.792   8.734  0.00  0.00      PROC
+ATOM   5817  CA  SER C 494       5.466  -8.019   8.268  0.00  0.00      PROC
+ATOM   5819  CB  SER C 494       5.180  -9.328   9.224  0.00  0.00      PROC
+ATOM   5822  OG  SER C 494       3.845  -9.657   9.394  0.00  0.00      PROC
+ATOM   5824  C   SER C 494       5.085  -8.430   6.846  0.00  0.00      PROC
+ATOM   5825  O   SER C 494       3.918  -8.409   6.476  0.00  0.00      PROC
+ATOM      0  H   SER C 494       4.213  -6.944   9.334  0.00  0.00      PROC H   new
+ATOM      0  HA  SER C 494       6.404  -7.773   8.302  0.00  0.00      PROC H   new
+ATOM      0  HB2 SER C 494       5.641 -10.093   8.846  0.00  0.00      PROC H   new
+ATOM      0  HB3 SER C 494       5.571  -9.164  10.096  0.00  0.00      PROC H   new
+ATOM      0  HG  SER C 494       3.784 -10.332   9.890  0.00  0.00      PROC H   new
+ATOM   5826  N   TYR C 495       6.091  -8.898   6.066  0.00  0.00      PROC
+ATOM   5828  CA  TYR C 495       5.767  -9.080   4.629  0.00  0.00      PROC
+ATOM   5830  CB  TYR C 495       7.048  -9.071   3.798  0.00  0.00      PROC
+ATOM   5833  CG  TYR C 495       7.396  -7.810   3.168  0.00  0.00      PROC
+ATOM   5834  CD1 TYR C 495       6.407  -7.054   2.464  0.00  0.00      PROC
+ATOM   5836  CE1 TYR C 495       6.773  -5.835   1.888  0.00  0.00      PROC
+ATOM   5838  CZ  TYR C 495       8.111  -5.318   1.997  0.00  0.00      PROC
+ATOM   5839  OH  TYR C 495       8.507  -4.108   1.367  0.00  0.00      PROC
+ATOM   5841  CD2 TYR C 495       8.682  -7.347   3.298  0.00  0.00      PROC
+ATOM   5843  CE2 TYR C 495       9.004  -6.115   2.635  0.00  0.00      PROC
+ATOM   5845  C   TYR C 495       5.006 -10.391   4.301  0.00  0.00      PROC
+ATOM   5846  O   TYR C 495       4.254 -10.459   3.318  0.00  0.00      PROC
+ATOM      0  H   TYR C 495       6.889  -9.098   6.317  0.00  0.00      PROC H   new
+ATOM      0  HA  TYR C 495       5.181  -8.339   4.409  0.00  0.00      PROC H   new
+ATOM      0  HB2 TYR C 495       7.784  -9.339   4.370  0.00  0.00      PROC H   new
+ATOM      0  HB3 TYR C 495       6.967  -9.745   3.105  0.00  0.00      PROC H   new
+ATOM      0  HD1 TYR C 495       5.535  -7.369   2.391  0.00  0.00      PROC H   new
+ATOM      0  HD2 TYR C 495       9.317  -7.811   3.794  0.00  0.00      PROC H   new
+ATOM      0  HE1 TYR C 495       6.135  -5.345   1.422  0.00  0.00      PROC H   new
+ATOM      0  HE2 TYR C 495       9.893  -5.842   2.644  0.00  0.00      PROC H   new
+ATOM      0  HH  TYR C 495       9.316  -3.956   1.535  0.00  0.00      PROC H   new
+ATOM   5847  N   GLY C 496       5.172 -11.374   5.083  0.00  0.00      PROC
+ATOM   5849  CA  GLY C 496       4.542 -12.660   4.884  0.00  0.00      PROC
+ATOM   5852  C   GLY C 496       4.919 -13.421   3.621  0.00  0.00      PROC
+ATOM   5853  O   GLY C 496       4.101 -14.156   3.086  0.00  0.00      PROC
+ATOM      0  H   GLY C 496       5.671 -11.339   5.783  0.00  0.00      PROC H   new
+ATOM      0  HA2 GLY C 496       4.750 -13.220   5.648  0.00  0.00      PROC H   new
+ATOM      0  HA3 GLY C 496       3.581 -12.529   4.882  0.00  0.00      PROC H   new
+ATOM   5854  N   PHE C 497       6.163 -13.288   3.217  0.00  0.00      PROC
+ATOM   5856  CA  PHE C 497       6.858 -13.903   2.096  0.00  0.00      PROC
+ATOM   5858  CB  PHE C 497       8.380 -13.616   2.302  0.00  0.00      PROC
+ATOM   5861  CG  PHE C 497       8.706 -12.132   2.025  0.00  0.00      PROC
+ATOM   5862  CD1 PHE C 497       8.371 -11.632   0.769  0.00  0.00      PROC
+ATOM   5864  CE1 PHE C 497       8.923 -10.425   0.357  0.00  0.00      PROC
+ATOM   5866  CZ  PHE C 497       9.702  -9.596   1.182  0.00  0.00      PROC
+ATOM   5868  CD2 PHE C 497       9.585 -11.389   2.867  0.00  0.00      PROC
+ATOM   5870  CE2 PHE C 497      10.049 -10.136   2.424  0.00  0.00      PROC
+ATOM   5872  C   PHE C 497       6.639 -15.409   1.927  0.00  0.00      PROC
+ATOM   5873  O   PHE C 497       7.040 -16.142   2.831  0.00  0.00      PROC
+ATOM      0  H   PHE C 497       6.694 -12.767   3.648  0.00  0.00      PROC H   new
+ATOM      0  HA  PHE C 497       6.495 -13.516   1.284  0.00  0.00      PROC H   new
+ATOM      0  HB2 PHE C 497       8.635 -13.843   3.210  0.00  0.00      PROC H   new
+ATOM      0  HB3 PHE C 497       8.902 -14.181   1.711  0.00  0.00      PROC H   new
+ATOM      0  HD1 PHE C 497       7.787 -12.098   0.215  0.00  0.00      PROC H   new
+ATOM      0  HD2 PHE C 497       9.847 -11.726   3.693  0.00  0.00      PROC H   new
+ATOM      0  HE1 PHE C 497       8.767 -10.149  -0.517  0.00  0.00      PROC H   new
+ATOM      0  HE2 PHE C 497      10.610  -9.647   2.981  0.00  0.00      PROC H   new
+ATOM      0  HZ  PHE C 497       9.969  -8.745   0.919  0.00  0.00      PROC H   new
+ATOM   5956  N   GLY C 504       6.276  -9.631  -8.079  0.00  0.00      PROC
+ATOM   5958  CA  GLY C 504       6.234  -8.347  -7.376  0.00  0.00      PROC
+ATOM   5961  C   GLY C 504       6.078  -8.440  -5.905  0.00  0.00      PROC
+ATOM   5962  O   GLY C 504       6.396  -7.582  -5.055  0.00  0.00      PROC
+ATOM      0  H   GLY C 504       5.545  -9.863  -8.469  0.00  0.00      PROC H   new
+ATOM      0  HA2 GLY C 504       7.050  -7.861  -7.571  0.00  0.00      PROC H   new
+ATOM      0  HA3 GLY C 504       5.500  -7.823  -7.733  0.00  0.00      PROC H   new
+ATOM   5963  N   TYR C 505       5.471  -9.550  -5.376  0.00  0.00      PROC
+ATOM   5965  CA  TYR C 505       5.433  -9.864  -3.965  0.00  0.00      PROC
+ATOM   5967  CB  TYR C 505       4.234 -10.864  -3.677  0.00  0.00      PROC
+ATOM   5970  CG  TYR C 505       2.963 -10.160  -4.248  0.00  0.00      PROC
+ATOM   5971  CD1 TYR C 505       2.525 -10.548  -5.564  0.00  0.00      PROC
+ATOM   5973  CE1 TYR C 505       1.314  -9.987  -6.102  0.00  0.00      PROC
+ATOM   5975  CZ  TYR C 505       0.481  -9.284  -5.185  0.00  0.00      PROC
+ATOM   5976  OH  TYR C 505      -0.840  -8.935  -5.575  0.00  0.00      PROC
+ATOM   5978  CD2 TYR C 505       2.166  -9.378  -3.402  0.00  0.00      PROC
+ATOM   5980  CE2 TYR C 505       0.925  -9.051  -3.871  0.00  0.00      PROC
+ATOM   5982  C   TYR C 505       6.676 -10.572  -3.380  0.00  0.00      PROC
+ATOM   5983  O   TYR C 505       6.809 -10.548  -2.152  0.00  0.00      PROC
+ATOM      0  H   TYR C 505       5.070 -10.135  -5.863  0.00  0.00      PROC H   new
+ATOM      0  HA  TYR C 505       5.358  -8.991  -3.548  0.00  0.00      PROC H   new
+ATOM      0  HB2 TYR C 505       4.382 -11.721  -4.107  0.00  0.00      PROC H   new
+ATOM      0  HB3 TYR C 505       4.142 -11.035  -2.727  0.00  0.00      PROC H   new
+ATOM      0  HD1 TYR C 505       3.021 -11.157  -6.062  0.00  0.00      PROC H   new
+ATOM      0  HD2 TYR C 505       2.465  -9.097  -2.567  0.00  0.00      PROC H   new
+ATOM      0  HE1 TYR C 505       1.088 -10.078  -6.999  0.00  0.00      PROC H   new
+ATOM      0  HE2 TYR C 505       0.332  -8.646  -3.280  0.00  0.00      PROC H   new
+ATOM      0  HH  TYR C 505      -1.220  -8.528  -4.946  0.00  0.00      PROC H   new

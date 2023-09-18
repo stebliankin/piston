@@ -357,9 +357,10 @@ class PISToN_dataset(Dataset):
         fig.update_layout(
             title_text='The interactive patch pair for {}. Hover to see the value and corresponding amino acid name.'.format(
                 ppi))
-        fig.show()
         if html_path is not None:
             plotly.offline.plot(fig, filename=html_path)
+        else:
+            fig.show()
 
     def __len__(self):
         return self.grid.shape[0]

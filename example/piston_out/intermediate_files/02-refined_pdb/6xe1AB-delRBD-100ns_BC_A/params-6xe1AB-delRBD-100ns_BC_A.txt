@@ -1,0 +1,60 @@
+### I/O
+receptorPDBFileName ./piston_out/intermediate_files/01-protonated_pdb//6xe1AB-delRBD-100ns_BC.pdb.CHB.pdb
+ligandPDBFileName ./piston_out/intermediate_files/01-protonated_pdb//6xe1AB-delRBD-100ns_A.pdb.CHB.pdb
+## reference for rmsd calculations 
+# templateLigandPDBFileName ./piston_out/intermediate_files/01-protonated_pdb//6xe1AB-delRBD-100ns_A.pdb.CHB.pdb
+# transformations for refinement
+transFileName /FireDock//default.trans
+## libraries files
+rotamerLibFile  /FireDock/lib/bbdep02.May.sortlib
+protLib /FireDock/lib/chem.lib
+# pdbConventionFile /FireDock/lib/Names.CHARMM.db
+## output file
+energiesOutFileName ./piston_out/intermediate_files/02-refined_pdb//6xe1AB-delRBD-100ns_BC_A//refined-out-6xe1AB-delRBD-100ns_BC_A
+
+### Input Options
+## these residues will be fixed unless appear also in receptorFlexibleResiduesFile
+# receptorFixedResiduesFile rec_fixed_residues.txt
+# ligandFixedResiduesFile lig_fixed_residues.txt
+## defines for which chains to build surface residues rotamers. If empty than will build for all chains
+## For bound receptor, you should uncomment it
+# flexibleReceptorChains @
+## For bound ligand, you should uncomment it 
+# flexibleLigandChains @
+## Residues specified here will be flexible
+## The residue can be flexible if its chain was specified in flexibleReceptorChains or if flexibleReceptorChains is empty
+# receptorFlexibleResiduesFile rec_flex_residues.txt
+# ligandFlexibleResiduesFile lig_flex_residues.txt
+
+### Output Options
+# to output refined complexes
+printRefinedComplexes 1
+## 1 - only energy caclulaltion is performed without refinement (works only for FireDock pre)
+onlyEnergyCalculation 0
+
+### side-chain optimization
+# 1 - only clashing residues are flexible, 0 - all residues are flexible
+receptorOnlyClashesMovable 1
+ligandOnlyClashesMovable 1
+# 0 - small rotamer set, 1 - extended rotamer set
+extraRotamers 0
+
+### rigid-body optimization (RBO)
+# num of MC cycles for rigid-body minimization (if 0 - no RBO)
+rigidBodyMinimizationCycles 50
+
+### weights for energy score (Default)
+attrVdWWeight   1.5
+repVdWWeight    0.8
+ACEWeight       1.6
+attrElWeight    0.21
+repElWeight     0.21
+l_attrElWeight  0.0
+l_repElWeight   0.69
+HBWeight        1.2
+pipiWeight      1.0
+catpiWeight     0.7
+aliphWeight     2.5
+insidenessWeight        0.7
+confProbWeight  0.0
+radiiScaling 0.8
