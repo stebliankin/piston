@@ -9,6 +9,7 @@ The model is trained on thousands of native and computationally predicted protei
 The multi-attention transformer network is also endowed with explainability by highlighting the specific features and binding sites that were the most important for the classification decision.
 
 ## Installation
+
 For an optimal setup, we suggest using a conda environment to avoid package conflicts. Set it up as follows:
 
     conda create -n piston python=3.7
@@ -36,9 +37,14 @@ Next, install the following python packages:
     -U scikit-learn \
     pdb2sql
 
-As an alternative, you can fetch our Singularity container which comes with pre-configured dependencies:
+The provided packages are sufficient to replicate the results reported in our research paper, as demonstrated in the [PiSToN_test.ipynb](./PiSToN_test.ipynb).
+However, in order to execute PiSToN with new examples, it is necessary to install [MaSIF](https://github.com/LPDI-EPFL/masif) and [FireDock](http://bioinfo3d.cs.tau.ac.il/FireDock).
+
+You can fetch our Singularity container with all pre-configured dependencies:
 
     wget https://users.cs.fiu.edu/~vsteb002/piston_sif/piston.sif
+
+The details on the singularity definition can be found in the folder [env](./env).
 
 | Note: The container was built with Singularity v3.5.3.
 
