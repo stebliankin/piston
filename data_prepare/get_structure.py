@@ -1,3 +1,5 @@
+import shutil
+
 import pymesh #Importing pymesh here avoids library conflict (CXXABI_1.3.11)
 from Bio.PDB import *
 from subprocess import Popen, PIPE
@@ -21,6 +23,17 @@ def protonate_pdb(ppi, config):
     if not os.path.exists(pdb_filename):
         pdbl = PDBList()
         pdb_filename = pdbl.retrieve_pdb_file(pid, pdir=config['dirs']['raw_pdb'], file_format='pdb')
+    else:
+        ## Remove MODEL line
+        tmp_filename = config['dirs']['raw_pdb'] + pid + '_tmp.pdb'
+        os.rename(pdb_filename, tmp_filename)
+        with open(pdb_filename, 'w') as out:
+            with open(tmp_filename, 'r') as f:
+                for line in f:
+                    if "MODEL" not in line:
+                        out.write(line)
+        os.remove(tmp_filename)
+
     # Protonate downloaded file
     protonated_file = config['dirs']['protonated_pdb']+"/"+pid+".pdb"
     protonate(pdb_filename, protonated_file)
